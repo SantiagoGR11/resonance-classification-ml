@@ -1,0 +1,14 @@
+# Date: 2026-11-14T18:42:32+01:00
+# Candidates: C:\Users\sgarr\OneDrive\Escritorio\UNI\TFG\centaur-jwst\data\processed\resonance_candidates.csv
+# Integrations: C:\Users\sgarr\OneDrive\Escritorio\UNI\TFG\centaur-jwst\data\resonance_results\timeseries.h5
+# Ensemble: C:\Users\sgarr\OneDrive\Escritorio\UNI\TFG\centaur-jwst\outputs\ml\final\models\ensemble.csv
+# Classified cases: 286
+# Mode priority: prograde, retrograde, zero, remaining modes
+# Prograde mode: m = k - k_p
+# Retrograde mode: m = k + k_p
+# Interpolated samples: 128
+# Libration periods used: 2
+# Probability threshold: 0.5
+# The search stops at the first mode classified as libration
+# Result 1: Libration
+# Result 0: Circulation

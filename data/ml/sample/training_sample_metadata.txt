@@ -1,0 +1,20 @@
+# Date: 2026-11-14T13:02:13+01:00
+# Volk-Malhotra source: data\ml\sample\resonances_database_VolkMalhotra2024.csv
+# JFC query: https://ssd-api.jpl.nasa.gov/sbdb_query.api?sb-cdata=%7B%22AND%22%3A+%5B%7B%22OR%22%3A+%5B%22a%7CRG%7C4.721515196885209%7C5.675177281352278%22%2C+%22a%7CRG%7C7.830777171893997%7C8.67294340505005%22%2C+%22a%7CRG%7C10.340437658068229%7C11.285554179158975%22%2C+%22a%7CRG%7C6.499150765366034%7C7.124370404922592%22%2C+%22a%7CRG%7C9.224140153509158%7C9.92673113224308%22%2C+%22a%7CRG%7C6.080819360876941%7C6.513876638821955%22%2C+%22a%7CRG%7C7.084741535499673%7C7.53010854323781%22%2C+%22a%7CRG%7C5.86955692878063%7C6.194735999592641%22%2C+%22a%7CRG%7C6.366607238967004%7C6.64448898448473%22%2C+%22a%7CRG%7C29.069025575473088%7C31.0699418561851%22%2C+%22a%7CRG%7C8.948984678648882%7C10.209190359722767%22%5D%7D%2C+%22epoch%7CDF%22%2C+%22e%7CDF%22%2C+%22i%7CDF%22%2C+%22om%7CDF%22%2C+%22w%7CDF%22%2C+%22ma%7CDF%22%2C+%22sigma_a%7CDF%22%5D%7D&fields=spkid%2Cfull_name%2Cpdes%2Cname%2Cclass%2Cepoch%2Ca%2Ce%2Cq%2Ci%2Com%2Cw%2Cma%2Cper%2Csigma_a%2Csigma_e%2Csigma_q%2Csigma_i%2Csigma_om%2Csigma_w%2Csigma_ma%2Csigma_per&sort=a
+# TNO query: https://ssd-api.jpl.nasa.gov/sbdb_query.api?sb-class=TNO&fields=spkid%2Cfull_name%2Cpdes%2Cname%2Cclass%2Cepoch%2Ca%2Ce%2Cq%2Ci%2Com%2Cw%2Cma%2Cper%2Csigma_a%2Csigma_e%2Csigma_q%2Csigma_i%2Csigma_om%2Csigma_w%2Csigma_ma%2Csigma_per&sort=pdes
+# Random state: 42
+# Requested objects: 1000
+# Final objects: 1000
+# JFC objects: 89
+# Volk-Malhotra resonant objects: 455
+# Volk-Malhotra non-resonant objects: 456
+# Volk-Malhotra objects without a JPL TNO match: 30
+# Original-catalog matches excluded: 0
+# Poor JPL orbits excluded: 1
+# JFC objects are not restricted in eccentricity or inclination
+# JFC labels are provisional label=0 and require visual review
+# Volk-Malhotra e_mean and i_mean were used only for the physical-domain filter
+# Resonant convention: k_p=res_q, k=res_p, principal mode m=k-k_p
+# Non-resonant objects use the closest nominal Neptune MMR without rejection
+# Gallardo grid correction: 21 Volk-Malhotra objects moved from e=0.0 to e=0.1
+# Gallardo grid correction date: 2026-11-14T14:34:02+01:00

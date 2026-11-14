@@ -1,0 +1,290 @@
+case_id,spkid,sampling_group,label,split
+1001650_Jupiter_2-3,1001650,JFc,0,train
+1000161_Jupiter_2-3,1000161,JFc,0,train
+1000385_Jupiter_1-1,1000385,JFc,1,train
+1003439_Jupiter_1-1,1003439,JFc,0,test
+1000178_Jupiter_2-3,1000178,JFc,0,train
+1003576_Jupiter_1-1,1003576,JFc,0,train
+1004149_Jupiter_2-3,1004149,JFc,1,test
+1004048_Jupiter_1-1,1004048,JFc,1,train
+1004031_Jupiter_1-1,1004031,JFc,1,train
+1003221_Jupiter_1-1,1003221,JFc,1,train
+1000280_Jupiter_1-1,1000280,JFc,0,train
+1003607_Jupiter_1-1,1003607,JFc,0,test
+1003650_Jupiter_3-4,1003650,JFc,0,train
+1003765_Saturn_1-1,1003765,JFc,0,train
+1003837_Saturn_1-1,1003837,JFc,1,train
+1003897_Jupiter_1-1,1003897,JFc,0,train
+1003821_Jupiter_1-2,1003821,JFc,0,train
+1003899_Jupiter_2-3,1003899,JFc,0,train
+1003973_Jupiter_1-3,1003973,JFc,1,train
+1002494_Jupiter_1-1,1002494,JFc,0,train
+1002481_Jupiter_1-1,1002481,JFc,1,train
+1003747_Jupiter_2-3,1003747,JFc,0,train
+1003960_Jupiter_1-1,1003960,JFc,0,train
+1000532_Jupiter_1-1,1000532,JFc,0,train
+1002444_Jupiter_2-3,1002444,JFc,0,train
+1003214_Jupiter_1-1,1003214,JFc,1,train
+1000522_Jupiter_1-2,1000522,JFc,0,train
+1003327_Jupiter_1-1,1003327,JFc,1,train
+1003378_Jupiter_3-5,1003378,JFc,0,train
+1000160_Jupiter_1-1,1000160,JFc,0,test
+1003867_Jupiter_1-2,1003867,JFc,1,train
+1003833_Jupiter_1-1,1003833,JFc,0,train
+1003354_Jupiter_2-3,1003354,JFc,0,test
+1003047_Jupiter_1-1,1003047,JFc,1,train
+1003994_Jupiter_2-3,1003994,JFc,1,train
+1000102_Jupiter_1-1,1000102,JFc,0,test
+1003145_Jupiter_1-1,1003145,JFc,1,train
+1004007_Jupiter_2-3,1004007,JFc,1,test
+1000103_Jupiter_2-3,1000103,JFc,0,train
+1003698_Jupiter_1-1,1003698,JFc,1,test
+1003319_Jupiter_1-2,1003319,JFc,1,train
+1004143_Jupiter_1-1,1004143,JFc,1,train
+1003444_Jupiter_3-5,1003444,JFc,0,train
+1003736_Jupiter_1-1,1003736,JFc,1,train
+1000477_Jupiter_1-1,1000477,JFc,1,train
+1001665_Jupiter_1-1,1001665,JFc,0,test
+1000087_Jupiter_1-1,1000087,JFc,0,test
+1003939_Jupiter_1-1,1003939,JFc,1,train
+1003721_Jupiter_1-1,1003721,JFc,1,train
+1000533_Jupiter_1-2,1000533,JFc,1,train
+1002485_Jupiter_1-1,1002485,JFc,1,test
+1000481_Jupiter_3-5,1000481,JFc,0,train
+1003349_Jupiter_1-1,1003349,JFc,0,train
+1004040_Saturn_1-1,1004040,JFc,0,train
+1003236_Jupiter_1-3,1003236,JFc,0,test
+1003184_Jupiter_2-3,1003184,JFc,0,train
+1003108_Jupiter_2-3,1003108,JFc,0,train
+1003010_Jupiter_2-3,1003010,JFc,1,train
+1003084_Jupiter_2-3,1003084,JFc,0,train
+1004050_Jupiter_1-3,1004050,JFc,1,train
+1000463_Jupiter_1-1,1000463,JFc,1,train
+1002496_Jupiter_1-3,1002496,JFc,0,train
+1003688_Jupiter_1-1,1003688,JFc,0,train
+1000449_Jupiter_1-2,1000449,JFc,0,train
+1000055_Jupiter_3-4,1000055,JFc,0,test
+1003936_Jupiter_2-3,1003936,JFc,1,train
+1003584_Jupiter_2-3,1003584,JFc,1,test
+1000167_Jupiter_1-2,1000167,JFc,0,test
+1003664_Jupiter_2-3,1003664,JFc,0,train
+1000076_Jupiter_1-1,1000076,JFc,0,train
+1003628_Saturn_1-1,1003628,JFc,1,train
+1003242_Jupiter_2-3,1003242,JFc,1,test
+1000415_Jupiter_2-3,1000415,JFc,0,train
+1003805_Jupiter_1-2,1003805,JFc,0,train
+1003646_Jupiter_1-1,1003646,JFc,0,train
+1003485_Jupiter_1-1,1003485,JFc,0,train
+1003545_Jupiter_1-1,1003545,JFc,1,train
+1000444_Jupiter_2-3,1000444,JFc,1,train
+1003602_Jupiter_1-1,1003602,JFc,1,test
+1002441_Jupiter_1-1,1002441,JFc,0,train
+1000004_Jupiter_1-1,1000004,JFc,1,train
+1003362_Saturn_1-1,1003362,JFc,0,train
+1002511_Jupiter_1-2,1002511,JFc,1,test
+1003174_Saturn_1-1,1003174,JFc,1,train
+1003058_Jupiter_1-1,1003058,JFc,1,train
+1003793_Jupiter_2-3,1003793,JFc,1,train
+1003008_Jupiter_1-2,1003008,JFc,1,train
+1003423_Jupiter_1-1,1003423,JFc,0,train
+1003397_Jupiter_2-3,1003397,JFc,1,train
+54144102_Neptune_2-3,54144102,Volk-Malhotra resonant,1,train
+50989550_Neptune_1-5,50989550,Volk-Malhotra resonant,1,train
+20612176_Neptune_1-2,20612176,Volk-Malhotra resonant,1,train
+20523717_Neptune_2-3,20523717,Volk-Malhotra resonant,1,train
+50841821_Neptune_3-4,50841821,Volk-Malhotra resonant,1,train
+20523703_Neptune_2-3,20523703,Volk-Malhotra resonant,1,train
+54197593_Neptune_1-2,54197593,Volk-Malhotra resonant,1,train
+50282111_Neptune_2-3,50282111,Volk-Malhotra resonant,1,train
+50787165_Neptune_1-2,50787165,Volk-Malhotra resonant,1,train
+20612574_Neptune_2-3,20612574,Volk-Malhotra resonant,1,train
+50740684_Neptune_5-9,50740684,Volk-Malhotra resonant,1,train
+50046184_Neptune_4-7,50046184,Volk-Malhotra resonant,1,train
+50335728_Neptune_3-4,50335728,Volk-Malhotra resonant,1,train
+20047932_Neptune_2-3,20047932,Volk-Malhotra resonant,1,test
+50830935_Neptune_2-3,50830935,Volk-Malhotra resonant,1,train
+54197620_Neptune_2-3,54197620,Volk-Malhotra resonant,1,train
+50790105_Neptune_1-2,50790105,Volk-Malhotra resonant,1,test
+54196395_Neptune_3-5,54196395,Volk-Malhotra resonant,1,test
+50790139_Neptune_1-2,50790139,Volk-Malhotra resonant,1,train
+20523751_Neptune_2-3,20523751,Volk-Malhotra resonant,1,train
+50830980_Neptune_2-3,50830980,Volk-Malhotra resonant,1,train
+50831007_Neptune_1-2,50831007,Volk-Malhotra resonant,1,train
+50727217_Neptune_2-3,50727217,Volk-Malhotra resonant,1,train
+54351834_Neptune_2-3,54351834,Volk-Malhotra resonant,1,train
+20042301_Neptune_4-9,20042301,Volk-Malhotra resonant,1,train
+20593617_Neptune_4-5,20593617,Volk-Malhotra resonant,1,test
+50315200_Neptune_1-2,50315200,Volk-Malhotra resonant,1,train
+54197635_Neptune_2-3,54197635,Volk-Malhotra resonant,1,train
+20015810_Neptune_2-3,20015810,Volk-Malhotra resonant,1,test
+20500880_Neptune_1-2,20500880,Volk-Malhotra resonant,1,test
+54196771_Neptune_1-1,54196771,Volk-Malhotra resonant,1,train
+50485914_Neptune_1-3,50485914,Volk-Malhotra resonant,1,train
+50830985_Neptune_2-3,50830985,Volk-Malhotra resonant,1,train
+50757939_Neptune_1-2,50757939,Volk-Malhotra resonant,1,train
+50790137_Neptune_2-5,50790137,Volk-Malhotra resonant,1,train
+20143707_Neptune_2-5,20143707,Volk-Malhotra resonant,1,test
+54199503_Neptune_2-3,54199503,Volk-Malhotra resonant,1,train
+50573184_Neptune_2-5,50573184,Volk-Malhotra resonant,1,train
+54393993_Neptune_4-7,54393993,Volk-Malhotra resonant,1,train
+50787172_Neptune_1-2,50787172,Volk-Malhotra resonant,1,train
+50272216_Neptune_1-2,50272216,Volk-Malhotra resonant,1,train
+20505679_Neptune_1-2,20505679,Volk-Malhotra resonant,1,train
+20524457_Neptune_3-4,20524457,Volk-Malhotra resonant,1,test
+20523794_Neptune_2-9,20523794,Volk-Malhotra resonant,1,train
+50831037_Neptune_4-7,50831037,Volk-Malhotra resonant,1,train
+50841685_Neptune_4-7,50841685,Volk-Malhotra resonant,1,train
+50572750_Neptune_4-7,50572750,Volk-Malhotra resonant,1,test
+50830982_Neptune_2-3,50830982,Volk-Malhotra resonant,1,train
+50989582_Neptune_2-3,50989582,Volk-Malhotra resonant,1,train
+50830964_Neptune_2-3,50830964,Volk-Malhotra resonant,1,train
+50989604_Neptune_2-3,50989604,Volk-Malhotra resonant,1,train
+54341539_Neptune_1-2,54341539,Volk-Malhotra resonant,1,train
+20534161_Neptune_2-3,20534161,Volk-Malhotra resonant,1,train
+20026375_Neptune_2-5,20026375,Volk-Malhotra resonant,1,train
+50830929_Neptune_2-3,50830929,Volk-Malhotra resonant,1,train
+50727233_Neptune_2-3,50727233,Volk-Malhotra resonant,1,train
+20531074_Neptune_1-2,20531074,Volk-Malhotra resonant,1,train
+50830960_Neptune_2-3,50830960,Volk-Malhotra resonant,1,train
+20126154_Neptune_3-5,20126154,Volk-Malhotra resonant,1,train
+20612332_Neptune_2-3,20612332,Volk-Malhotra resonant,1,train
+50566509_Neptune_3-4,50566509,Volk-Malhotra resonant,1,train
+20118228_Neptune_2-3,20118228,Volk-Malhotra resonant,1,train
+50563308_Neptune_2-3,50563308,Volk-Malhotra resonant,1,train
+50696044_Neptune_2-3,50696044,Volk-Malhotra resonant,1,train
+50753623_Neptune_1-1,50753623,Volk-Malhotra resonant,1,train
+50830928_Neptune_2-3,50830928,Volk-Malhotra resonant,1,train
+20525258_Neptune_2-3,20525258,Volk-Malhotra resonant,1,train
+50831054_Neptune_4-7,50831054,Volk-Malhotra resonant,1,train
+50755733_Neptune_2-3,50755733,Volk-Malhotra resonant,1,test
+50830934_Neptune_2-3,50830934,Volk-Malhotra resonant,1,train
+50787153_Neptune_2-3,50787153,Volk-Malhotra resonant,1,train
+50989567_Neptune_1-2,50989567,Volk-Malhotra resonant,1,test
+20131318_Neptune_2-3,20131318,Volk-Malhotra resonant,1,test
+50830994_Neptune_2-3,50830994,Volk-Malhotra resonant,1,train
+20612524_Neptune_1-2,20612524,Volk-Malhotra resonant,1,train
+54197760_Neptune_2-3,54197760,Volk-Malhotra resonant,1,train
+50830992_Neptune_2-3,50830992,Volk-Malhotra resonant,1,test
+20500834_Neptune_2-3,20500834,Volk-Malhotra resonant,1,test
+20119956_Neptune_4-7,20119956,Volk-Malhotra resonant,1,test
+20523704_Neptune_2-3,20523704,Volk-Malhotra resonant,1,train
+50508255_Neptune_2-3,50508255,Volk-Malhotra resonant,1,train
+50696042_Neptune_2-3,50696042,Volk-Malhotra resonant,1,train
+50727221_Neptune_2-3,50727221,Volk-Malhotra resonant,1,train
+20523684_Neptune_9-17,20523684,Volk-Malhotra resonant,1,train
+50830940_Neptune_2-3,50830940,Volk-Malhotra resonant,1,train
+50830939_Neptune_2-3,50830939,Volk-Malhotra resonant,1,train
+50831011_Neptune_1-2,50831011,Volk-Malhotra resonant,1,test
+50830946_Neptune_2-3,50830946,Volk-Malhotra resonant,1,test
+20612029_Neptune_2-3,20612029,Volk-Malhotra resonant,1,test
+20535168_Neptune_2-3,20535168,Volk-Malhotra resonant,1,train
+20575713_Neptune_2-3,20575713,Volk-Malhotra resonant,1,train
+20612351_Neptune_2-3,20612351,Volk-Malhotra resonant,1,train
+54194320_Neptune_6-11,54194320,Volk-Malhotra resonant,1,train
+20143685_Neptune_3-4,20143685,Volk-Malhotra resonant,1,test
+50563304_Neptune_2-3,50563304,Volk-Malhotra resonant,1,test
+20544430_Neptune_2-5,20544430,Volk-Malhotra resonant,1,train
+50830983_Neptune_2-3,50830983,Volk-Malhotra resonant,1,train
+50989590_Neptune_4-5,50989590,Volk-Malhotra resonant,1,train
+20038084_Neptune_2-5,20038084,Volk-Malhotra resonant,1,train
+20531917_Neptune_4-7,20531917,Volk-Malhotra resonant,1,train
+20455209_Neptune_4-7,20455209,Volk-Malhotra non-resonant,0,train
+54199122_Neptune_4-7,54199122,Volk-Malhotra non-resonant,0,train
+50790108_Neptune_1-2,50790108,Volk-Malhotra non-resonant,0,train
+50755581_Neptune_3-5,50755581,Volk-Malhotra non-resonant,0,train
+50841679_Neptune_4-7,50841679,Volk-Malhotra non-resonant,0,test
+50835611_Neptune_3-5,50835611,Volk-Malhotra non-resonant,0,train
+54197603_Neptune_3-5,54197603,Volk-Malhotra non-resonant,0,test
+50787134_Neptune_4-7,50787134,Volk-Malhotra non-resonant,0,train
+54410315_Neptune_4-7,54410315,Volk-Malhotra non-resonant,0,test
+50835574_Neptune_3-5,50835574,Volk-Malhotra non-resonant,0,train
+20533676_Neptune_4-7,20533676,Volk-Malhotra non-resonant,0,test
+50787132_Neptune_4-7,50787132,Volk-Malhotra non-resonant,0,test
+50031897_Neptune_3-5,50031897,Volk-Malhotra non-resonant,0,train
+50564188_Neptune_1-2,50564188,Volk-Malhotra non-resonant,0,train
+20612144_Neptune_4-7,20612144,Volk-Malhotra non-resonant,0,train
+54196776_Neptune_4-7,54196776,Volk-Malhotra non-resonant,0,train
+54199275_Neptune_3-5,54199275,Volk-Malhotra non-resonant,0,train
+20612149_Neptune_4-7,20612149,Volk-Malhotra non-resonant,0,test
+54410341_Neptune_3-5,54410341,Volk-Malhotra non-resonant,0,train
+50835560_Neptune_1-2,50835560,Volk-Malhotra non-resonant,0,train
+50564190_Neptune_4-7,50564190,Volk-Malhotra non-resonant,0,train
+50485928_Neptune_4-7,50485928,Volk-Malhotra non-resonant,0,train
+50835644_Neptune_4-7,50835644,Volk-Malhotra non-resonant,0,train
+20523692_Neptune_3-7,20523692,Volk-Malhotra non-resonant,0,train
+50835677_Neptune_4-7,50835677,Volk-Malhotra non-resonant,0,test
+50564183_Neptune_3-5,50564183,Volk-Malhotra non-resonant,0,train
+50835727_Neptune_4-7,50835727,Volk-Malhotra non-resonant,0,train
+50835639_Neptune_3-5,50835639,Volk-Malhotra non-resonant,0,train
+50177205_Neptune_1-2,50177205,Volk-Malhotra non-resonant,0,train
+50835738_Neptune_3-5,50835738,Volk-Malhotra non-resonant,0,train
+50835586_Neptune_4-7,50835586,Volk-Malhotra non-resonant,0,train
+50485916_Neptune_4-7,50485916,Volk-Malhotra non-resonant,0,test
+50092465_Neptune_4-7,50092465,Volk-Malhotra non-resonant,0,train
+20523744_Neptune_4-7,20523744,Volk-Malhotra non-resonant,0,test
+50335717_Neptune_1-3,50335717,Volk-Malhotra non-resonant,0,train
+20531224_Neptune_3-8,20531224,Volk-Malhotra non-resonant,0,train
+50031933_Neptune_1-2,50031933,Volk-Malhotra non-resonant,0,train
+50835564_Neptune_4-7,50835564,Volk-Malhotra non-resonant,0,test
+50760711_Neptune_4-7,50760711,Volk-Malhotra non-resonant,0,train
+20533506_Neptune_4-7,20533506,Volk-Malhotra non-resonant,0,train
+50031851_Neptune_1-2,50031851,Volk-Malhotra non-resonant,0,train
+50330245_Neptune_4-7,50330245,Volk-Malhotra non-resonant,0,train
+50031929_Neptune_3-5,50031929,Volk-Malhotra non-resonant,0,train
+20308634_Neptune_4-7,20308634,Volk-Malhotra non-resonant,0,train
+50755585_Neptune_4-7,50755585,Volk-Malhotra non-resonant,0,train
+54410272_Neptune_4-7,54410272,Volk-Malhotra non-resonant,0,train
+20175113_Neptune_2-3,20175113,Volk-Malhotra non-resonant,0,train
+50316086_Neptune_4-7,50316086,Volk-Malhotra non-resonant,0,test
+50835549_Neptune_4-7,50835549,Volk-Malhotra non-resonant,0,test
+50755540_Neptune_1-2,50755540,Volk-Malhotra non-resonant,0,train
+50102821_Neptune_4-7,50102821,Volk-Malhotra non-resonant,0,train
+50787169_Neptune_4-7,50787169,Volk-Malhotra non-resonant,0,train
+54199495_Neptune_4-7,54199495,Volk-Malhotra non-resonant,0,train
+20058534_Neptune_4-7,20058534,Volk-Malhotra non-resonant,0,train
+50835630_Neptune_4-7,50835630,Volk-Malhotra non-resonant,0,train
+50835665_Neptune_3-5,50835665,Volk-Malhotra non-resonant,0,train
+20385362_Neptune_1-2,20385362,Volk-Malhotra non-resonant,0,test
+54410333_Neptune_4-7,54410333,Volk-Malhotra non-resonant,0,test
+50564179_Neptune_4-7,50564179,Volk-Malhotra non-resonant,0,train
+54410359_Neptune_4-7,54410359,Volk-Malhotra non-resonant,0,train
+20082157_Neptune_2-3,20082157,Volk-Malhotra non-resonant,0,train
+50835777_Neptune_4-7,50835777,Volk-Malhotra non-resonant,0,train
+20505446_Neptune_4-7,20505446,Volk-Malhotra non-resonant,0,train
+20612578_Neptune_1-2,20612578,Volk-Malhotra non-resonant,0,train
+50787136_Neptune_4-7,50787136,Volk-Malhotra non-resonant,0,train
+50841279_Neptune_4-7,50841279,Volk-Malhotra non-resonant,0,train
+50114113_Neptune_4-7,50114113,Volk-Malhotra non-resonant,0,test
+54199506_Neptune_4-7,54199506,Volk-Malhotra non-resonant,0,train
+50078939_Neptune_1-2,50078939,Volk-Malhotra non-resonant,0,train
+20307251_Neptune_1-2,20307251,Volk-Malhotra non-resonant,0,train
+50835786_Neptune_1-2,50835786,Volk-Malhotra non-resonant,0,train
+50787182_Neptune_4-7,50787182,Volk-Malhotra non-resonant,0,train
+50835810_Neptune_4-7,50835810,Volk-Malhotra non-resonant,0,train
+50841663_Neptune_5-8,50841663,Volk-Malhotra non-resonant,0,train
+50573870_Neptune_2-5,50573870,Volk-Malhotra non-resonant,0,train
+50031862_Neptune_1-2,50031862,Volk-Malhotra non-resonant,0,train
+54410339_Neptune_1-2,54410339,Volk-Malhotra non-resonant,0,train
+50620495_Neptune_4-7,50620495,Volk-Malhotra non-resonant,0,train
+20592487_Neptune_4-7,20592487,Volk-Malhotra non-resonant,0,train
+50662474_Neptune_1-2,50662474,Volk-Malhotra non-resonant,0,test
+50726837_Neptune_1-2,50726837,Volk-Malhotra non-resonant,0,train
+20182926_Neptune_1-2,20182926,Volk-Malhotra non-resonant,0,train
+50835557_Neptune_4-7,50835557,Volk-Malhotra non-resonant,0,train
+50330211_Neptune_1-3,50330211,Volk-Malhotra non-resonant,0,train
+54196387_Neptune_2-3,54196387,Volk-Malhotra non-resonant,0,train
+54410331_Neptune_4-7,54410331,Volk-Malhotra non-resonant,0,train
+50841819_Neptune_4-7,50841819,Volk-Malhotra non-resonant,0,train
+50835607_Neptune_4-7,50835607,Volk-Malhotra non-resonant,0,train
+50989575_Neptune_3-5,50989575,Volk-Malhotra non-resonant,0,test
+50013338_Neptune_3-5,50013338,Volk-Malhotra non-resonant,0,train
+20535990_Neptune_4-7,20535990,Volk-Malhotra non-resonant,0,train
+50564202_Neptune_4-7,50564202,Volk-Malhotra non-resonant,0,train
+50835587_Neptune_4-7,50835587,Volk-Malhotra non-resonant,0,test
+54196394_Neptune_3-8,54196394,Volk-Malhotra non-resonant,0,test
+54197633_Neptune_4-7,54197633,Volk-Malhotra non-resonant,0,train
+50835541_Neptune_1-2,50835541,Volk-Malhotra non-resonant,0,train
+54410324_Neptune_4-7,54410324,Volk-Malhotra non-resonant,0,train
+20523721_Neptune_4-7,20523721,Volk-Malhotra non-resonant,0,train
+50835694_Neptune_4-7,50835694,Volk-Malhotra non-resonant,0,test
+50727270_Neptune_4-7,50727270,Volk-Malhotra non-resonant,0,train

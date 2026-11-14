@@ -1,0 +1,11 @@
+# Date: 2026-11-14T17:54:49+01:00
+# Training sample: C:\Users\sgarr\OneDrive\Escritorio\UNI\TFG\centaur-jwst\data\ml\sample\training_sample.csv
+# Integrations: C:\Users\sgarr\OneDrive\Escritorio\UNI\TFG\centaur-jwst\data\ml\integrations\training_timeseries.h5
+# Objects: 289
+# Interpolated samples: 128
+# Savitzky-Golay windows: signal length/50
+# Savitzky-Golay polynomial order: 2
+# Temporal cut: none
+# Time normalization: [0, 1]
+# Angular units: turns (displacement/(2*pi))
+# Labels are stored in scalar_inputs.csv

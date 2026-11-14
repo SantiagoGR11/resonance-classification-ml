@@ -1,0 +1,13 @@
+feature,mean,standard_deviation
+per_lib,18465.621,13644.837
+delta_a,0.2923587,0.17858832
+relative_delta_a,0.017587885,0.017147949
+physical_duration,92328.17,68224.18
+duration_per_lib,5.0,1.0
+original_final_displacement,32.137802,54.208824
+treated_final_displacement,32.13903,54.208252
+slope_to_maximum,0.0050273845,0.018539067
+original_deviation_area,-5.112461,29.838299
+treated_deviation_area,15.431928,26.056042
+first_half_deviation_area,-2.7200317,14.2387495
+cut_reached,0.0,1.0

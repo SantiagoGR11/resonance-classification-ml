@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+data/resonance_results/timeseries.h5
+data/ml/integrations/training_timeseries.h5

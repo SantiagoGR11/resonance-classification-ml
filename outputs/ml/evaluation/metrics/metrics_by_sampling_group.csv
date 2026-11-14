@@ -1,0 +1,7 @@
+model,sampling_group,objects,positive_labels,accuracy,mean_probability
+conv,JFc,18,8,0.9444444444444444,0.47889054
+conv,Volk-Malhotra non-resonant,20,0,1.0,8.8795794e-17
+conv,Volk-Malhotra resonant,20,20,1.0,0.99968517
+combined,JFc,18,8,0.9444444444444444,0.45887682
+combined,Volk-Malhotra non-resonant,20,0,1.0,7.4652806e-10
+combined,Volk-Malhotra resonant,20,20,1.0,0.9998414

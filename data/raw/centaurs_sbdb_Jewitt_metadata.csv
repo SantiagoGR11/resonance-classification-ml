@@ -1,0 +1,25 @@
+#Date: 2026-09-22T22:07:41+02:00
+#URL: https://ssd-api.jpl.nasa.gov/sbdb_query.api?sb-cdata=%7B%22AND%22%3A+%5B%22a%7CGT%7C5.2%22%2C+%22a%7CLT%7C30.07%22%2C+%22q%7CGT%7C5.2%22%2C+%22q%7CLT%7C30.07%22%5D%7D&fields=spkid%2Cfull_name%2Cpdes%2Cname%2Cclass%2Cepoch%2Ca%2Ce%2Cq%2Ci%2Com%2Cw%2Cma%2Cper%2Csigma_a%2Csigma_e%2Csigma_q%2Csigma_i%2Csigma_om%2Csigma_w%2Csigma_ma%2Csigma_per&sort=a
+field,description,units
+spkid,object primary SPK-ID,
+full_name,object full name/designation,
+pdes,object primary designation,
+name,object IAU name,
+epoch,epoch of osculation in Julian day form,TDB
+e,eccentricity,
+a,semi-major axis,au
+q,perihelion distance,au
+i,inclination; angle with respect to x-y ecliptic plane,deg
+om,longitude of the ascending node,deg
+w,argument of perihelion,deg
+ma,mean anomaly,deg
+per,sidereal orbital period,d
+sigma_e,eccentricity (1-sigma uncertainty),
+sigma_a,semi-major axis (1-sigma uncertainty),au
+sigma_q,perihelion distance (1-sigma uncertainty),au
+sigma_i,inclination (1-sigma uncertainty),deg
+sigma_om,long. of the asc. node (1-sigma uncertainty),deg
+sigma_w,argument of perihelion (1-sigma uncertainty),deg
+sigma_ma,mean anomaly (1-sigma uncertainty),deg
+sigma_per,sidereal orbital period (1-sigma uncertainty),d
+class,orbit classification,

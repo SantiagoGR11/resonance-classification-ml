@@ -1,0 +1,59 @@
+case_id,spkid,sampling_group,label,probability,prediction
+1003439_Jupiter_1-1,1003439,JFc,0,0.90736455,1
+1004149_Jupiter_2-3,1004149,JFc,1,0.97409475,1
+1003607_Jupiter_1-1,1003607,JFc,0,0.0014762235,0
+1000160_Jupiter_1-1,1000160,JFc,0,0.00722475,0
+1003354_Jupiter_2-3,1003354,JFc,0,3.2962919e-31,0
+1000102_Jupiter_1-1,1000102,JFc,0,1.9073164e-10,0
+1004007_Jupiter_2-3,1004007,JFc,1,0.975008,1
+1003698_Jupiter_1-1,1003698,JFc,1,0.99985504,1
+1001665_Jupiter_1-1,1001665,JFc,0,0.18984677,0
+1000087_Jupiter_1-1,1000087,JFc,0,2.1689163e-14,0
+1002485_Jupiter_1-1,1002485,JFc,1,0.9412602,1
+1003236_Jupiter_1-3,1003236,JFc,0,2.3597655e-08,0
+1000055_Jupiter_3-4,1000055,JFc,0,0.014710384,0
+1003584_Jupiter_2-3,1003584,JFc,1,0.9993149,1
+1000167_Jupiter_1-2,1000167,JFc,0,0.00015215499,0
+1003242_Jupiter_2-3,1003242,JFc,1,0.6122095,1
+1003602_Jupiter_1-1,1003602,JFc,1,0.99920183,1
+1002511_Jupiter_1-2,1002511,JFc,1,0.9983103,1
+20047932_Neptune_2-3,20047932,Volk-Malhotra resonant,1,0.9999919,1
+50790105_Neptune_1-2,50790105,Volk-Malhotra resonant,1,0.99999,1
+54196395_Neptune_3-5,54196395,Volk-Malhotra resonant,1,0.9999025,1
+20593617_Neptune_4-5,20593617,Volk-Malhotra resonant,1,0.99994457,1
+20015810_Neptune_2-3,20015810,Volk-Malhotra resonant,1,0.99830675,1
+20500880_Neptune_1-2,20500880,Volk-Malhotra resonant,1,0.99954706,1
+20143707_Neptune_2-5,20143707,Volk-Malhotra resonant,1,0.9999869,1
+20524457_Neptune_3-4,20524457,Volk-Malhotra resonant,1,0.9999087,1
+50572750_Neptune_4-7,50572750,Volk-Malhotra resonant,1,0.9999865,1
+50755733_Neptune_2-3,50755733,Volk-Malhotra resonant,1,0.99993694,1
+50989567_Neptune_1-2,50989567,Volk-Malhotra resonant,1,0.999995,1
+20131318_Neptune_2-3,20131318,Volk-Malhotra resonant,1,0.99998665,1
+50830992_Neptune_2-3,50830992,Volk-Malhotra resonant,1,0.99999285,1
+20500834_Neptune_2-3,20500834,Volk-Malhotra resonant,1,0.9980001,1
+20119956_Neptune_4-7,20119956,Volk-Malhotra resonant,1,0.99828833,1
+50831011_Neptune_1-2,50831011,Volk-Malhotra resonant,1,0.9999739,1
+50830946_Neptune_2-3,50830946,Volk-Malhotra resonant,1,0.9999933,1
+20612029_Neptune_2-3,20612029,Volk-Malhotra resonant,1,0.9999876,1
+20143685_Neptune_3-4,20143685,Volk-Malhotra resonant,1,0.9999927,1
+50563304_Neptune_2-3,50563304,Volk-Malhotra resonant,1,0.99999034,1
+50841679_Neptune_4-7,50841679,Volk-Malhotra non-resonant,0,0.0,0
+54197603_Neptune_3-5,54197603,Volk-Malhotra non-resonant,0,4.1561473e-20,0
+54410315_Neptune_4-7,54410315,Volk-Malhotra non-resonant,0,1.3144053e-22,0
+20533676_Neptune_4-7,20533676,Volk-Malhotra non-resonant,0,5.5062437e-38,0
+50787132_Neptune_4-7,50787132,Volk-Malhotra non-resonant,0,0.0,0
+20612149_Neptune_4-7,20612149,Volk-Malhotra non-resonant,0,3.2465501e-38,0
+50835677_Neptune_4-7,50835677,Volk-Malhotra non-resonant,0,7.8068086e-23,0
+50485916_Neptune_4-7,50485916,Volk-Malhotra non-resonant,0,5.415508e-29,0
+20523744_Neptune_4-7,20523744,Volk-Malhotra non-resonant,0,2.0097952e-29,0
+50835564_Neptune_4-7,50835564,Volk-Malhotra non-resonant,0,2.2474625e-25,0
+50316086_Neptune_4-7,50316086,Volk-Malhotra non-resonant,0,1.7758714e-15,0
+50835549_Neptune_4-7,50835549,Volk-Malhotra non-resonant,0,2.4267799e-32,0
+20385362_Neptune_1-2,20385362,Volk-Malhotra non-resonant,0,0.0,0
+54410333_Neptune_4-7,54410333,Volk-Malhotra non-resonant,0,0.0,0
+50114113_Neptune_4-7,50114113,Volk-Malhotra non-resonant,0,9.505356e-27,0
+50662474_Neptune_1-2,50662474,Volk-Malhotra non-resonant,0,2.6717241e-21,0
+50989575_Neptune_3-5,50989575,Volk-Malhotra non-resonant,0,6.4788446e-29,0
+50835587_Neptune_4-7,50835587,Volk-Malhotra non-resonant,0,4.628352e-28,0
+54196394_Neptune_3-8,54196394,Volk-Malhotra non-resonant,0,0.0,0
+50835694_Neptune_4-7,50835694,Volk-Malhotra non-resonant,0,0.0,0
