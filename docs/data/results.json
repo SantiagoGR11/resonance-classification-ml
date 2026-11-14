@@ -6,8 +6,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54469733_Jupiter_1-1.png"
+    "plot":"54469733_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9981567621,
+    "ensemble_std":0.0006732735,
+    "modes_tested":1
   },
   {
     "case_id":"20627154_Jupiter_1-1",
@@ -16,8 +21,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20627154_Jupiter_1-1.png"
+    "plot":"20627154_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985940933,
+    "ensemble_std":0.000526739,
+    "modes_tested":1
   },
   {
     "case_id":"20585847_Jupiter_1-1",
@@ -26,8 +36,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20585847_Jupiter_1-1.png"
+    "plot":"20585847_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.998254168,
+    "ensemble_std":0.0006395299,
+    "modes_tested":1
   },
   {
     "case_id":"54430132_Jupiter_1-1",
@@ -36,8 +51,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54430132_Jupiter_1-1.png"
+    "plot":"54430132_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9975120544,
+    "ensemble_std":0.0008979946,
+    "modes_tested":1
   },
   {
     "case_id":"20347296_Jupiter_1-1",
@@ -46,8 +66,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20347296_Jupiter_1-1.png"
+    "plot":"20347296_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985656023,
+    "ensemble_std":0.000535229,
+    "modes_tested":1
   },
   {
     "case_id":"20599257_Jupiter_1-1",
@@ -56,8 +81,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20599257_Jupiter_1-1.png"
+    "plot":"20599257_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985803485,
+    "ensemble_std":0.0005313772,
+    "modes_tested":1
   },
   {
     "case_id":"54448963_Jupiter_1-1",
@@ -66,8 +96,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54448963_Jupiter_1-1.png"
+    "plot":"54448963_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9976049423,
+    "ensemble_std":0.0008654028,
+    "modes_tested":1
   },
   {
     "case_id":"20225624_Jupiter_1-1",
@@ -76,8 +111,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20225624_Jupiter_1-1.png"
+    "plot":"20225624_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9981951237,
+    "ensemble_std":0.0006582769,
+    "modes_tested":1
   },
   {
     "case_id":"54217870_Jupiter_1-1",
@@ -86,8 +126,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54217870_Jupiter_1-1.png"
+    "plot":"54217870_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9983402848,
+    "ensemble_std":0.0006103697,
+    "modes_tested":1
   },
   {
     "case_id":"54514692_Jupiter_1-1",
@@ -96,8 +141,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54514692_Jupiter_1-1.png"
+    "plot":"54514692_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9980606794,
+    "ensemble_std":0.0007014385,
+    "modes_tested":1
   },
   {
     "case_id":"20321113_Jupiter_1-1",
@@ -106,8 +156,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20321113_Jupiter_1-1.png"
+    "plot":"20321113_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9971890807,
+    "ensemble_std":0.0010003216,
+    "modes_tested":1
   },
   {
     "case_id":"20195309_Jupiter_1-1",
@@ -116,8 +171,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20195309_Jupiter_1-1.png"
+    "plot":"20195309_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.997937572,
+    "ensemble_std":0.0007435642,
+    "modes_tested":1
   },
   {
     "case_id":"20586236_Jupiter_1-1",
@@ -126,8 +186,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20586236_Jupiter_1-1.png"
+    "plot":"20586236_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9988342524,
+    "ensemble_std":0.0004323783,
+    "modes_tested":1
   },
   {
     "case_id":"20359966_Jupiter_1-1",
@@ -136,8 +201,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20359966_Jupiter_1-1.png"
+    "plot":"20359966_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9964179277,
+    "ensemble_std":0.0012537682,
+    "modes_tested":1
   },
   {
     "case_id":"50793807_Jupiter_1-1",
@@ -146,8 +216,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50793807_Jupiter_1-1.png"
+    "plot":"50793807_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.998256588,
+    "ensemble_std":0.0006373169,
+    "modes_tested":1
   },
   {
     "case_id":"54134059_Jupiter_1-1",
@@ -156,8 +231,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54134059_Jupiter_1-1.png"
+    "plot":"54134059_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9977111936,
+    "ensemble_std":0.0008269337,
+    "modes_tested":1
   },
   {
     "case_id":"20784901_Jupiter_1-1",
@@ -166,8 +246,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20784901_Jupiter_1-1.png"
+    "plot":"20784901_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9987713695,
+    "ensemble_std":0.000458357,
+    "modes_tested":1
   },
   {
     "case_id":"20351210_Jupiter_1-1",
@@ -176,8 +261,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20351210_Jupiter_1-1.png"
+    "plot":"20351210_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984924078,
+    "ensemble_std":0.0005591025,
+    "modes_tested":1
   },
   {
     "case_id":"50794179_Jupiter_1-1",
@@ -186,8 +276,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50794179_Jupiter_1-1.png"
+    "plot":"50794179_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9982572675,
+    "ensemble_std":0.0006367022,
+    "modes_tested":1
   },
   {
     "case_id":"54522625_Jupiter_1-1",
@@ -196,8 +291,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54522625_Jupiter_1-1.png"
+    "plot":"54522625_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9980741382,
+    "ensemble_std":0.0006967067,
+    "modes_tested":1
   },
   {
     "case_id":"50793693_Jupiter_1-1",
@@ -206,8 +306,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50793693_Jupiter_1-1.png"
+    "plot":"50793693_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9983636975,
+    "ensemble_std":0.0006017221,
+    "modes_tested":1
   },
   {
     "case_id":"20515726_Jupiter_1-1",
@@ -216,8 +321,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20515726_Jupiter_1-1.png"
+    "plot":"20515726_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984094501,
+    "ensemble_std":0.000585528,
+    "modes_tested":1
   },
   {
     "case_id":"20859855_Jupiter_1-1",
@@ -226,8 +336,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20859855_Jupiter_1-1.png"
+    "plot":"20859855_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.998133862,
+    "ensemble_std":0.0006773973,
+    "modes_tested":1
   },
   {
     "case_id":"54477477_Jupiter_1-1",
@@ -236,8 +351,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54477477_Jupiter_1-1.png"
+    "plot":"54477477_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9974781632,
+    "ensemble_std":0.0009078793,
+    "modes_tested":1
   },
   {
     "case_id":"20589885_Jupiter_1-1",
@@ -246,8 +366,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20589885_Jupiter_1-1.png"
+    "plot":"20589885_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9983494282,
+    "ensemble_std":0.0006059123,
+    "modes_tested":1
   },
   {
     "case_id":"20635887_Jupiter_1-1",
@@ -256,8 +381,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20635887_Jupiter_1-1.png"
+    "plot":"20635887_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9977548361,
+    "ensemble_std":0.0008114025,
+    "modes_tested":1
   },
   {
     "case_id":"20884156_Jupiter_1-1",
@@ -266,8 +396,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20884156_Jupiter_1-1.png"
+    "plot":"20884156_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9976851583,
+    "ensemble_std":0.0008344019,
+    "modes_tested":1
   },
   {
     "case_id":"20471078_Jupiter_1-1",
@@ -276,8 +411,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20471078_Jupiter_1-1.png"
+    "plot":"20471078_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9975160003,
+    "ensemble_std":0.0008935827,
+    "modes_tested":1
   },
   {
     "case_id":"20634873_Jupiter_1-1",
@@ -286,8 +426,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20634873_Jupiter_1-1.png"
+    "plot":"20634873_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9983221292,
+    "ensemble_std":0.0006140239,
+    "modes_tested":1
   },
   {
     "case_id":"54529587_Jupiter_1-1",
@@ -296,8 +441,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54529587_Jupiter_1-1.png"
+    "plot":"54529587_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9987764955,
+    "ensemble_std":0.0004545776,
+    "modes_tested":1
   },
   {
     "case_id":"20037789_Jupiter_1-1",
@@ -306,8 +456,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20037789_Jupiter_1-1.png"
+    "plot":"20037789_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984118342,
+    "ensemble_std":0.0005853499,
+    "modes_tested":1
   },
   {
     "case_id":"54571212_Jupiter_1-1",
@@ -316,8 +471,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54571212_Jupiter_1-1.png"
+    "plot":"54571212_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9978974104,
+    "ensemble_std":0.0007601691,
+    "modes_tested":1
   },
   {
     "case_id":"20828666_Jupiter_1-1",
@@ -326,8 +486,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20828666_Jupiter_1-1.png"
+    "plot":"20828666_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984085917,
+    "ensemble_std":0.0005850537,
+    "modes_tested":1
   },
   {
     "case_id":"20510608_Jupiter_1-1",
@@ -336,8 +501,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20510608_Jupiter_1-1.png"
+    "plot":"20510608_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9977591991,
+    "ensemble_std":0.0008103738,
+    "modes_tested":1
   },
   {
     "case_id":"20228010_Jupiter_1-1",
@@ -346,8 +516,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20228010_Jupiter_1-1.png"
+    "plot":"20228010_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9976188064,
+    "ensemble_std":0.0008564571,
+    "modes_tested":1
   },
   {
     "case_id":"20433275_Jupiter_1-1",
@@ -356,8 +531,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20433275_Jupiter_1-1.png"
+    "plot":"20433275_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985893607,
+    "ensemble_std":0.000525958,
+    "modes_tested":1
   },
   {
     "case_id":"54367237_Jupiter_1-1",
@@ -366,8 +546,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54367237_Jupiter_1-1.png"
+    "plot":"54367237_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9980853915,
+    "ensemble_std":0.0006916842,
+    "modes_tested":1
   },
   {
     "case_id":"20294159_Jupiter_1-1",
@@ -376,8 +561,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20294159_Jupiter_1-1.png"
+    "plot":"20294159_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9979552627,
+    "ensemble_std":0.0007372845,
+    "modes_tested":1
   },
   {
     "case_id":"20603617_Jupiter_1-1",
@@ -386,8 +576,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20603617_Jupiter_1-1.png"
+    "plot":"20603617_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986472368,
+    "ensemble_std":0.0005042174,
+    "modes_tested":1
   },
   {
     "case_id":"54108515_Jupiter_1-1",
@@ -396,8 +591,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54108515_Jupiter_1-1.png"
+    "plot":"54108515_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9980536461,
+    "ensemble_std":0.0007035525,
+    "modes_tested":1
   },
   {
     "case_id":"54508175_Jupiter_1-1",
@@ -406,8 +606,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54508175_Jupiter_1-1.png"
+    "plot":"54508175_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9981639266,
+    "ensemble_std":0.0006662465,
+    "modes_tested":1
   },
   {
     "case_id":"54423302_Jupiter_1-1",
@@ -416,8 +621,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54423302_Jupiter_1-1.png"
+    "plot":"54423302_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9975765467,
+    "ensemble_std":0.0008700807,
+    "modes_tested":1
   },
   {
     "case_id":"20355758_Jupiter_1-1",
@@ -426,8 +636,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20355758_Jupiter_1-1.png"
+    "plot":"20355758_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.998497653,
+    "ensemble_std":0.0005567254,
+    "modes_tested":1
   },
   {
     "case_id":"20892386_Jupiter_1-1",
@@ -436,8 +651,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20892386_Jupiter_1-1.png"
+    "plot":"20892386_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.998393333,
+    "ensemble_std":0.0005910497,
+    "modes_tested":1
   },
   {
     "case_id":"20391806_Jupiter_1-1",
@@ -446,8 +666,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20391806_Jupiter_1-1.png"
+    "plot":"20391806_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9979674697,
+    "ensemble_std":0.0007336727,
+    "modes_tested":1
   },
   {
     "case_id":"54125983_Jupiter_1-1",
@@ -456,8 +681,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54125983_Jupiter_1-1.png"
+    "plot":"54125983_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9974153042,
+    "ensemble_std":0.000924983,
+    "modes_tested":1
   },
   {
     "case_id":"20031819_Jupiter_1-1",
@@ -466,8 +696,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20031819_Jupiter_1-1.png"
+    "plot":"20031819_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9967486858,
+    "ensemble_std":0.0011409665,
+    "modes_tested":1
   },
   {
     "case_id":"20771590_Jupiter_1-1",
@@ -476,8 +711,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20771590_Jupiter_1-1.png"
+    "plot":"20771590_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9975907683,
+    "ensemble_std":0.0008623343,
+    "modes_tested":1
   },
   {
     "case_id":"54465998_Jupiter_1-1",
@@ -486,8 +726,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54465998_Jupiter_1-1.png"
+    "plot":"54465998_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9978468537,
+    "ensemble_std":0.000777721,
+    "modes_tested":1
   },
   {
     "case_id":"20295488_Jupiter_1-1",
@@ -496,8 +741,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20295488_Jupiter_1-1.png"
+    "plot":"20295488_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986128926,
+    "ensemble_std":0.0005164495,
+    "modes_tested":1
   },
   {
     "case_id":"54465038_Jupiter_1-1",
@@ -506,8 +756,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54465038_Jupiter_1-1.png"
+    "plot":"54465038_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9987870336,
+    "ensemble_std":0.0004307138,
+    "modes_tested":1
   },
   {
     "case_id":"50793618_Jupiter_1-1",
@@ -516,8 +771,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50793618_Jupiter_1-1.png"
+    "plot":"50793618_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9980984211,
+    "ensemble_std":0.0006881428,
+    "modes_tested":1
   },
   {
     "case_id":"20653060_Jupiter_1-1",
@@ -526,8 +786,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20653060_Jupiter_1-1.png"
+    "plot":"20653060_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9975646973,
+    "ensemble_std":0.0008737426,
+    "modes_tested":1
   },
   {
     "case_id":"54450847_Jupiter_1-1",
@@ -536,8 +801,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54450847_Jupiter_1-1.png"
+    "plot":"54450847_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9981398463,
+    "ensemble_std":0.0006738093,
+    "modes_tested":1
   },
   {
     "case_id":"20356270_Jupiter_1-1",
@@ -546,8 +816,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20356270_Jupiter_1-1.png"
+    "plot":"20356270_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9979030967,
+    "ensemble_std":0.0007578149,
+    "modes_tested":1
   },
   {
     "case_id":"50793180_Jupiter_1-1",
@@ -556,8 +831,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50793180_Jupiter_1-1.png"
+    "plot":"50793180_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984801888,
+    "ensemble_std":0.0005615502,
+    "modes_tested":1
   },
   {
     "case_id":"54529656_Jupiter_1-1",
@@ -566,8 +846,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54529656_Jupiter_1-1.png"
+    "plot":"54529656_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9974212646,
+    "ensemble_std":0.0009209764,
+    "modes_tested":1
   },
   {
     "case_id":"20709495_Jupiter_1-1",
@@ -576,8 +861,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20709495_Jupiter_1-1.png"
+    "plot":"20709495_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985323191,
+    "ensemble_std":0.0005437869,
+    "modes_tested":1
   },
   {
     "case_id":"20228088_Jupiter_1-1",
@@ -586,8 +876,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20228088_Jupiter_1-1.png"
+    "plot":"20228088_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9975667357,
+    "ensemble_std":0.0008710397,
+    "modes_tested":1
   },
   {
     "case_id":"20744716_Jupiter_1-1",
@@ -596,8 +891,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20744716_Jupiter_1-1.png"
+    "plot":"20744716_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9981721401,
+    "ensemble_std":0.0006623403,
+    "modes_tested":1
   },
   {
     "case_id":"20846897_Jupiter_1-1",
@@ -606,8 +906,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20846897_Jupiter_1-1.png"
+    "plot":"20846897_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984177709,
+    "ensemble_std":0.0005821295,
+    "modes_tested":1
   },
   {
     "case_id":"20589295_Jupiter_1-1",
@@ -616,8 +921,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20589295_Jupiter_1-1.png"
+    "plot":"20589295_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.998718214,
+    "ensemble_std":0.0004761159,
+    "modes_tested":1
   },
   {
     "case_id":"20139009_Jupiter_1-1",
@@ -626,8 +936,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20139009_Jupiter_1-1.png"
+    "plot":"20139009_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9977736354,
+    "ensemble_std":0.0008023708,
+    "modes_tested":1
   },
   {
     "case_id":"20387608_Jupiter_1-1",
@@ -636,8 +951,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20387608_Jupiter_1-1.png"
+    "plot":"20387608_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985238314,
+    "ensemble_std":0.000546163,
+    "modes_tested":1
   },
   {
     "case_id":"54265356_Jupiter_1-1",
@@ -646,8 +966,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54265356_Jupiter_1-1.png"
+    "plot":"54265356_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9976389408,
+    "ensemble_std":0.0008473213,
+    "modes_tested":1
   },
   {
     "case_id":"20004754_Jupiter_1-1",
@@ -656,8 +981,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20004754_Jupiter_1-1.png"
+    "plot":"20004754_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9974847794,
+    "ensemble_std":0.0009009506,
+    "modes_tested":1
   },
   {
     "case_id":"20823627_Jupiter_1-1",
@@ -666,8 +996,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20823627_Jupiter_1-1.png"
+    "plot":"20823627_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.998084569,
+    "ensemble_std":0.000692394,
+    "modes_tested":1
   },
   {
     "case_id":"20573848_Jupiter_1-1",
@@ -676,8 +1011,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20573848_Jupiter_1-1.png"
+    "plot":"20573848_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9978689194,
+    "ensemble_std":0.0007695351,
+    "modes_tested":1
   },
   {
     "case_id":"20376543_Jupiter_1-1",
@@ -686,8 +1026,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20376543_Jupiter_1-1.png"
+    "plot":"20376543_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986784101,
+    "ensemble_std":0.0004908025,
+    "modes_tested":1
   },
   {
     "case_id":"54280063_Jupiter_1-1",
@@ -696,8 +1041,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54280063_Jupiter_1-1.png"
+    "plot":"54280063_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9981747866,
+    "ensemble_std":0.0006616387,
+    "modes_tested":1
   },
   {
     "case_id":"20763363_Jupiter_1-1",
@@ -706,8 +1056,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20763363_Jupiter_1-1.png"
+    "plot":"20763363_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9977125764,
+    "ensemble_std":0.0008225041,
+    "modes_tested":1
   },
   {
     "case_id":"54078313_Jupiter_1-1",
@@ -716,8 +1071,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54078313_Jupiter_1-1.png"
+    "plot":"54078313_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9976895452,
+    "ensemble_std":0.0008315144,
+    "modes_tested":1
   },
   {
     "case_id":"50842030_Jupiter_1-1",
@@ -726,8 +1086,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50842030_Jupiter_1-1.png"
+    "plot":"50842030_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9982567906,
+    "ensemble_std":0.000634265,
+    "modes_tested":1
   },
   {
     "case_id":"20739977_Jupiter_1-1",
@@ -736,8 +1101,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20739977_Jupiter_1-1.png"
+    "plot":"20739977_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9970403671,
+    "ensemble_std":0.0010501028,
+    "modes_tested":1
   },
   {
     "case_id":"54219992_Jupiter_1-1",
@@ -746,8 +1116,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54219992_Jupiter_1-1.png"
+    "plot":"54219992_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.997895968,
+    "ensemble_std":0.0007599376,
+    "modes_tested":1
   },
   {
     "case_id":"20887072_Jupiter_1-1",
@@ -756,8 +1131,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20887072_Jupiter_1-1.png"
+    "plot":"20887072_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984871149,
+    "ensemble_std":0.0005536238,
+    "modes_tested":1
   },
   {
     "case_id":"20676539_Jupiter_1-1",
@@ -766,8 +1146,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20676539_Jupiter_1-1.png"
+    "plot":"20676539_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986869097,
+    "ensemble_std":0.0004863393,
+    "modes_tested":1
   },
   {
     "case_id":"20659022_Jupiter_1-1",
@@ -776,8 +1161,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20659022_Jupiter_1-1.png"
+    "plot":"20659022_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9977018833,
+    "ensemble_std":0.0008252818,
+    "modes_tested":1
   },
   {
     "case_id":"20618283_Jupiter_1-1",
@@ -786,8 +1176,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20618283_Jupiter_1-1.png"
+    "plot":"20618283_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.99798311,
+    "ensemble_std":0.0007275989,
+    "modes_tested":1
   },
   {
     "case_id":"20847240_Jupiter_1-1",
@@ -796,8 +1191,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20847240_Jupiter_1-1.png"
+    "plot":"20847240_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9981717587,
+    "ensemble_std":0.0006623576,
+    "modes_tested":1
   },
   {
     "case_id":"54372761_Jupiter_1-1",
@@ -806,8 +1206,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54372761_Jupiter_1-1.png"
+    "plot":"54372761_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9983746529,
+    "ensemble_std":0.0005948217,
+    "modes_tested":1
   },
   {
     "case_id":"54604512_Jupiter_1-1",
@@ -816,8 +1221,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54604512_Jupiter_1-1.png"
+    "plot":"54604512_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9983337164,
+    "ensemble_std":0.00060868,
+    "modes_tested":1
   },
   {
     "case_id":"50794906_Jupiter_1-1",
@@ -826,8 +1236,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50794906_Jupiter_1-1.png"
+    "plot":"50794906_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985005856,
+    "ensemble_std":0.0005537597,
+    "modes_tested":1
   },
   {
     "case_id":"20390362_Jupiter_1-1",
@@ -836,8 +1251,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20390362_Jupiter_1-1.png"
+    "plot":"20390362_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9981279612,
+    "ensemble_std":0.0006771466,
+    "modes_tested":1
   },
   {
     "case_id":"20322540_Jupiter_1-1",
@@ -846,8 +1266,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20322540_Jupiter_1-1.png"
+    "plot":"20322540_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9983187199,
+    "ensemble_std":0.0006135015,
+    "modes_tested":1
   },
   {
     "case_id":"20510736_Jupiter_1-1",
@@ -856,8 +1281,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20510736_Jupiter_1-1.png"
+    "plot":"20510736_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984441042,
+    "ensemble_std":0.0005690677,
+    "modes_tested":1
   },
   {
     "case_id":"54525263_Jupiter_1-1",
@@ -866,8 +1296,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54525263_Jupiter_1-1.png"
+    "plot":"54525263_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9976036787,
+    "ensemble_std":0.0008572292,
+    "modes_tested":1
   },
   {
     "case_id":"20639940_Jupiter_1-1",
@@ -876,8 +1311,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20639940_Jupiter_1-1.png"
+    "plot":"20639940_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985164642,
+    "ensemble_std":0.0005482565,
+    "modes_tested":1
   },
   {
     "case_id":"54257393_Jupiter_1-1",
@@ -886,8 +1326,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54257393_Jupiter_1-1.png"
+    "plot":"54257393_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986851454,
+    "ensemble_std":0.000487347,
+    "modes_tested":1
   },
   {
     "case_id":"20315925_Jupiter_1-1",
@@ -896,8 +1341,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20315925_Jupiter_1-1.png"
+    "plot":"20315925_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9978423476,
+    "ensemble_std":0.0007783706,
+    "modes_tested":1
   },
   {
     "case_id":"20872574_Jupiter_1-1",
@@ -906,8 +1356,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20872574_Jupiter_1-1.png"
+    "plot":"20872574_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9982592463,
+    "ensemble_std":0.0006330846,
+    "modes_tested":1
   },
   {
     "case_id":"20867715_Jupiter_1-1",
@@ -916,8 +1371,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20867715_Jupiter_1-1.png"
+    "plot":"20867715_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985788226,
+    "ensemble_std":0.0005175295,
+    "modes_tested":1
   },
   {
     "case_id":"20226358_Jupiter_1-1",
@@ -926,8 +1386,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20226358_Jupiter_1-1.png"
+    "plot":"20226358_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9979056954,
+    "ensemble_std":0.0007562242,
+    "modes_tested":1
   },
   {
     "case_id":"20264075_Jupiter_1-1",
@@ -936,8 +1401,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20264075_Jupiter_1-1.png"
+    "plot":"20264075_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9989287257,
+    "ensemble_std":0.0003860058,
+    "modes_tested":1
   },
   {
     "case_id":"20353801_Jupiter_1-1",
@@ -946,8 +1416,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20353801_Jupiter_1-1.png"
+    "plot":"20353801_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9972841859,
+    "ensemble_std":0.0009678329,
+    "modes_tested":1
   },
   {
     "case_id":"20837198_Jupiter_1-1",
@@ -956,8 +1431,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20837198_Jupiter_1-1.png"
+    "plot":"20837198_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9983227134,
+    "ensemble_std":0.0006118279,
+    "modes_tested":1
   },
   {
     "case_id":"50721379_Jupiter_1-1",
@@ -966,8 +1446,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50721379_Jupiter_1-1.png"
+    "plot":"50721379_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984556198,
+    "ensemble_std":0.0005635474,
+    "modes_tested":1
   },
   {
     "case_id":"20595269_Jupiter_1-1",
@@ -976,8 +1461,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20595269_Jupiter_1-1.png"
+    "plot":"20595269_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985771537,
+    "ensemble_std":0.0005259349,
+    "modes_tested":1
   },
   {
     "case_id":"20542169_Jupiter_1-1",
@@ -986,8 +1476,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20542169_Jupiter_1-1.png"
+    "plot":"20542169_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9987062335,
+    "ensemble_std":0.0004784582,
+    "modes_tested":1
   },
   {
     "case_id":"20772857_Jupiter_1-1",
@@ -996,8 +1491,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20772857_Jupiter_1-1.png"
+    "plot":"20772857_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985544205,
+    "ensemble_std":0.0005268782,
+    "modes_tested":1
   },
   {
     "case_id":"20632416_Jupiter_1-1",
@@ -1006,8 +1506,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20632416_Jupiter_1-1.png"
+    "plot":"20632416_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9981519222,
+    "ensemble_std":0.0006695085,
+    "modes_tested":1
   },
   {
     "case_id":"20747826_Jupiter_1-1",
@@ -1016,8 +1521,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20747826_Jupiter_1-1.png"
+    "plot":"20747826_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9987533927,
+    "ensemble_std":0.0004591194,
+    "modes_tested":1
   },
   {
     "case_id":"20819106_Jupiter_1-1",
@@ -1026,8 +1536,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20819106_Jupiter_1-1.png"
+    "plot":"20819106_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986659646,
+    "ensemble_std":0.0004928729,
+    "modes_tested":1
   },
   {
     "case_id":"20638570_Jupiter_1-1",
@@ -1036,8 +1551,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20638570_Jupiter_1-1.png"
+    "plot":"20638570_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9972845435,
+    "ensemble_std":0.0009657476,
+    "modes_tested":1
   },
   {
     "case_id":"54540382_Jupiter_1-1",
@@ -1046,8 +1566,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54540382_Jupiter_1-1.png"
+    "plot":"54540382_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986162186,
+    "ensemble_std":0.0005106561,
+    "modes_tested":1
   },
   {
     "case_id":"20732391_Jupiter_1-1",
@@ -1056,8 +1581,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20732391_Jupiter_1-1.png"
+    "plot":"20732391_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984705806,
+    "ensemble_std":0.0005623237,
+    "modes_tested":1
   },
   {
     "case_id":"54515894_Jupiter_1-1",
@@ -1066,8 +1596,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54515894_Jupiter_1-1.png"
+    "plot":"54515894_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9988420606,
+    "ensemble_std":0.0004204658,
+    "modes_tested":1
   },
   {
     "case_id":"54515894_Saturn_1-1",
@@ -1076,8 +1611,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Saturn",
-    "result":"-",
-    "plot":"54515894_Saturn_1-1.png"
+    "plot":"54515894_Saturn_1-1.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":3
   },
   {
     "case_id":"54345454_Jupiter_1-1",
@@ -1086,8 +1626,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54345454_Jupiter_1-1.png"
+    "plot":"54345454_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9980521917,
+    "ensemble_std":0.0007035824,
+    "modes_tested":1
   },
   {
     "case_id":"50982066_Jupiter_1-1",
@@ -1096,8 +1641,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50982066_Jupiter_1-1.png"
+    "plot":"50982066_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985111117,
+    "ensemble_std":0.0005481025,
+    "modes_tested":1
   },
   {
     "case_id":"20573968_Jupiter_1-1",
@@ -1106,8 +1656,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20573968_Jupiter_1-1.png"
+    "plot":"20573968_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9975034833,
+    "ensemble_std":0.0008881783,
+    "modes_tested":1
   },
   {
     "case_id":"54508194_Jupiter_1-1",
@@ -1116,8 +1671,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54508194_Jupiter_1-1.png"
+    "plot":"54508194_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985835314,
+    "ensemble_std":0.0005229953,
+    "modes_tested":1
   },
   {
     "case_id":"20010247_Jupiter_1-1",
@@ -1126,8 +1686,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20010247_Jupiter_1-1.png"
+    "plot":"20010247_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9968100667,
+    "ensemble_std":0.0011106912,
+    "modes_tested":1
   },
   {
     "case_id":"20766047_Jupiter_1-1",
@@ -1136,8 +1701,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20766047_Jupiter_1-1.png"
+    "plot":"20766047_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986948848,
+    "ensemble_std":0.0004820683,
+    "modes_tested":1
   },
   {
     "case_id":"20741516_Jupiter_1-1",
@@ -1146,8 +1716,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20741516_Jupiter_1-1.png"
+    "plot":"20741516_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9973496795,
+    "ensemble_std":0.0009426035,
+    "modes_tested":1
   },
   {
     "case_id":"54218165_Jupiter_1-1",
@@ -1156,8 +1731,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54218165_Jupiter_1-1.png"
+    "plot":"54218165_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986297488,
+    "ensemble_std":0.0005052028,
+    "modes_tested":1
   },
   {
     "case_id":"20391792_Jupiter_1-1",
@@ -1166,8 +1746,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20391792_Jupiter_1-1.png"
+    "plot":"20391792_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985086799,
+    "ensemble_std":0.0005494485,
+    "modes_tested":1
   },
   {
     "case_id":"20432377_Jupiter_1-1",
@@ -1176,8 +1761,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20432377_Jupiter_1-1.png"
+    "plot":"20432377_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9982019782,
+    "ensemble_std":0.0006519798,
+    "modes_tested":1
   },
   {
     "case_id":"20048373_Jupiter_1-1",
@@ -1186,8 +1776,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20048373_Jupiter_1-1.png"
+    "plot":"20048373_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.996508193,
+    "ensemble_std":0.0012190868,
+    "modes_tested":1
   },
   {
     "case_id":"20675714_Jupiter_1-1",
@@ -1196,8 +1791,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20675714_Jupiter_1-1.png"
+    "plot":"20675714_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9977833509,
+    "ensemble_std":0.0007997395,
+    "modes_tested":1
   },
   {
     "case_id":"54127906_Jupiter_1-1",
@@ -1206,8 +1806,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54127906_Jupiter_1-1.png"
+    "plot":"54127906_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984339356,
+    "ensemble_std":0.0005719872,
+    "modes_tested":1
   },
   {
     "case_id":"20054638_Jupiter_1-1",
@@ -1216,8 +1821,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20054638_Jupiter_1-1.png"
+    "plot":"20054638_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9978051662,
+    "ensemble_std":0.0007932665,
+    "modes_tested":1
   },
   {
     "case_id":"54432677_Jupiter_1-1",
@@ -1226,8 +1836,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54432677_Jupiter_1-1.png"
+    "plot":"54432677_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9973779678,
+    "ensemble_std":0.0009403544,
+    "modes_tested":1
   },
   {
     "case_id":"20716972_Jupiter_1-1",
@@ -1236,8 +1851,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20716972_Jupiter_1-1.png"
+    "plot":"20716972_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9980232477,
+    "ensemble_std":0.000714951,
+    "modes_tested":1
   },
   {
     "case_id":"20312630_Jupiter_1-1",
@@ -1246,8 +1866,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20312630_Jupiter_1-1.png"
+    "plot":"20312630_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9979534388,
+    "ensemble_std":0.0007395111,
+    "modes_tested":1
   },
   {
     "case_id":"50793440_Jupiter_1-1",
@@ -1256,8 +1881,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50793440_Jupiter_1-1.png"
+    "plot":"50793440_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985166073,
+    "ensemble_std":0.000545964,
+    "modes_tested":1
   },
   {
     "case_id":"20571249_Jupiter_1-1",
@@ -1266,8 +1896,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20571249_Jupiter_1-1.png"
+    "plot":"20571249_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9983165026,
+    "ensemble_std":0.0006135182,
+    "modes_tested":1
   },
   {
     "case_id":"20099368_Jupiter_1-1",
@@ -1276,8 +1911,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20099368_Jupiter_1-1.png"
+    "plot":"20099368_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9977438807,
+    "ensemble_std":0.0008150065,
+    "modes_tested":1
   },
   {
     "case_id":"20735592_Jupiter_1-1",
@@ -1286,8 +1926,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20735592_Jupiter_1-1.png"
+    "plot":"20735592_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9982073188,
+    "ensemble_std":0.000649424,
+    "modes_tested":1
   },
   {
     "case_id":"20650228_Jupiter_1-1",
@@ -1296,8 +1941,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20650228_Jupiter_1-1.png"
+    "plot":"20650228_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9977703929,
+    "ensemble_std":0.0008001986,
+    "modes_tested":1
   },
   {
     "case_id":"20550106_Jupiter_1-1",
@@ -1306,8 +1956,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20550106_Jupiter_1-1.png"
+    "plot":"20550106_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9980623364,
+    "ensemble_std":0.0007023468,
+    "modes_tested":1
   },
   {
     "case_id":"20433279_Jupiter_1-1",
@@ -1316,8 +1971,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20433279_Jupiter_1-1.png"
+    "plot":"20433279_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9987018347,
+    "ensemble_std":0.0004776489,
+    "modes_tested":1
   },
   {
     "case_id":"20588753_Jupiter_1-1",
@@ -1326,8 +1986,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20588753_Jupiter_1-1.png"
+    "plot":"20588753_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9983773589,
+    "ensemble_std":0.0005918674,
+    "modes_tested":1
   },
   {
     "case_id":"20572439_Jupiter_1-1",
@@ -1336,8 +2001,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20572439_Jupiter_1-1.png"
+    "plot":"20572439_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.998101151,
+    "ensemble_std":0.0006864772,
+    "modes_tested":1
   },
   {
     "case_id":"20065217_Jupiter_1-1",
@@ -1346,8 +2016,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20065217_Jupiter_1-1.png"
+    "plot":"20065217_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985777736,
+    "ensemble_std":0.0005234116,
+    "modes_tested":1
   },
   {
     "case_id":"20317668_Jupiter_1-1",
@@ -1356,8 +2031,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20317668_Jupiter_1-1.png"
+    "plot":"20317668_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986165285,
+    "ensemble_std":0.0005087524,
+    "modes_tested":1
   },
   {
     "case_id":"20228098_Jupiter_1-1",
@@ -1366,8 +2046,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20228098_Jupiter_1-1.png"
+    "plot":"20228098_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9981388092,
+    "ensemble_std":0.0006744581,
+    "modes_tested":1
   },
   {
     "case_id":"54569795_Jupiter_1-1",
@@ -1376,8 +2061,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54569795_Jupiter_1-1.png"
+    "plot":"54569795_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.998711586,
+    "ensemble_std":0.0004719673,
+    "modes_tested":1
   },
   {
     "case_id":"54514391_Jupiter_1-1",
@@ -1386,8 +2076,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54514391_Jupiter_1-1.png"
+    "plot":"54514391_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985979676,
+    "ensemble_std":0.0005142468,
+    "modes_tested":1
   },
   {
     "case_id":"54224927_Jupiter_1-1",
@@ -1396,8 +2091,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54224927_Jupiter_1-1.png"
+    "plot":"54224927_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9979749203,
+    "ensemble_std":0.000731609,
+    "modes_tested":1
   },
   {
     "case_id":"20775232_Jupiter_1-1",
@@ -1406,8 +2106,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20775232_Jupiter_1-1.png"
+    "plot":"20775232_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986221433,
+    "ensemble_std":0.0005068787,
+    "modes_tested":1
   },
   {
     "case_id":"54464904_Jupiter_1-1",
@@ -1416,8 +2121,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54464904_Jupiter_1-1.png"
+    "plot":"54464904_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986565471,
+    "ensemble_std":0.0004918782,
+    "modes_tested":1
   },
   {
     "case_id":"20895383_Jupiter_1-1",
@@ -1426,8 +2136,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20895383_Jupiter_1-1.png"
+    "plot":"20895383_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9982085943,
+    "ensemble_std":0.0006514462,
+    "modes_tested":1
   },
   {
     "case_id":"20467926_Jupiter_1-1",
@@ -1436,8 +2151,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20467926_Jupiter_1-1.png"
+    "plot":"20467926_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985278964,
+    "ensemble_std":0.0005387647,
+    "modes_tested":1
   },
   {
     "case_id":"20777141_Jupiter_1-1",
@@ -1446,8 +2166,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20777141_Jupiter_1-1.png"
+    "plot":"20777141_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984460592,
+    "ensemble_std":0.0005684478,
+    "modes_tested":1
   },
   {
     "case_id":"50778168_Jupiter_1-1",
@@ -1456,8 +2181,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50778168_Jupiter_1-1.png"
+    "plot":"50778168_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9974821329,
+    "ensemble_std":0.0008997081,
+    "modes_tested":1
   },
   {
     "case_id":"20773640_Jupiter_1-1",
@@ -1466,8 +2196,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20773640_Jupiter_1-1.png"
+    "plot":"20773640_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.997753191,
+    "ensemble_std":0.0008089051,
+    "modes_tested":1
   },
   {
     "case_id":"20359025_Jupiter_1-1",
@@ -1476,8 +2211,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20359025_Jupiter_1-1.png"
+    "plot":"20359025_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9971676111,
+    "ensemble_std":0.0009910132,
+    "modes_tested":1
   },
   {
     "case_id":"20003801_Jupiter_1-1",
@@ -1486,8 +2226,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20003801_Jupiter_1-1.png"
+    "plot":"20003801_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986253977,
+    "ensemble_std":0.0005025525,
+    "modes_tested":1
   },
   {
     "case_id":"20773874_Jupiter_1-1",
@@ -1496,8 +2241,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20773874_Jupiter_1-1.png"
+    "plot":"20773874_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.997900176,
+    "ensemble_std":0.0007531204,
+    "modes_tested":1
   },
   {
     "case_id":"20389360_Jupiter_1-1",
@@ -1506,8 +2256,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20389360_Jupiter_1-1.png"
+    "plot":"20389360_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9980861306,
+    "ensemble_std":0.000691471,
+    "modes_tested":1
   },
   {
     "case_id":"20780692_Jupiter_1-1",
@@ -1516,8 +2271,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20780692_Jupiter_1-1.png"
+    "plot":"20780692_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9974106431,
+    "ensemble_std":0.0009265808,
+    "modes_tested":1
   },
   {
     "case_id":"54497613_Jupiter_1-1",
@@ -1526,8 +2286,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54497613_Jupiter_1-1.png"
+    "plot":"54497613_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9971682191,
+    "ensemble_std":0.0010051775,
+    "modes_tested":1
   },
   {
     "case_id":"20009030_Jupiter_1-1",
@@ -1536,8 +2301,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20009030_Jupiter_1-1.png"
+    "plot":"20009030_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9965466857,
+    "ensemble_std":0.0012038222,
+    "modes_tested":1
   },
   {
     "case_id":"54463340_Jupiter_1-1",
@@ -1546,8 +2316,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54463340_Jupiter_1-1.png"
+    "plot":"54463340_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9981220126,
+    "ensemble_std":0.0006806942,
+    "modes_tested":1
   },
   {
     "case_id":"20763965_Jupiter_1-1",
@@ -1556,8 +2331,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20763965_Jupiter_1-1.png"
+    "plot":"20763965_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9979075551,
+    "ensemble_std":0.000755154,
+    "modes_tested":1
   },
   {
     "case_id":"20648611_Jupiter_1-1",
@@ -1566,8 +2346,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20648611_Jupiter_1-1.png"
+    "plot":"20648611_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9980238557,
+    "ensemble_std":0.0007112371,
+    "modes_tested":1
   },
   {
     "case_id":"20192345_Jupiter_1-1",
@@ -1576,8 +2361,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20192345_Jupiter_1-1.png"
+    "plot":"20192345_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9973206997,
+    "ensemble_std":0.0009389932,
+    "modes_tested":1
   },
   {
     "case_id":"20011428_Jupiter_1-1",
@@ -1586,8 +2376,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20011428_Jupiter_1-1.png"
+    "plot":"20011428_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984886527,
+    "ensemble_std":0.000550639,
+    "modes_tested":1
   },
   {
     "case_id":"20359004_Jupiter_1-1",
@@ -1596,8 +2391,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20359004_Jupiter_1-1.png"
+    "plot":"20359004_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985279799,
+    "ensemble_std":0.0005363213,
+    "modes_tested":1
   },
   {
     "case_id":"20436151_Jupiter_1-1",
@@ -1606,8 +2406,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20436151_Jupiter_1-1.png"
+    "plot":"20436151_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9987602472,
+    "ensemble_std":0.000447467,
+    "modes_tested":1
   },
   {
     "case_id":"20526900_Jupiter_1-1",
@@ -1616,8 +2421,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20526900_Jupiter_1-1.png"
+    "plot":"20526900_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9977792382,
+    "ensemble_std":0.0008025037,
+    "modes_tested":1
   },
   {
     "case_id":"20792717_Jupiter_1-1",
@@ -1626,8 +2436,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20792717_Jupiter_1-1.png"
+    "plot":"20792717_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9978428483,
+    "ensemble_std":0.0007706568,
+    "modes_tested":1
   },
   {
     "case_id":"54449382_Jupiter_1-1",
@@ -1636,8 +2451,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54449382_Jupiter_1-1.png"
+    "plot":"54449382_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984181643,
+    "ensemble_std":0.0005782008,
+    "modes_tested":1
   },
   {
     "case_id":"54273205_Jupiter_1-1",
@@ -1646,8 +2466,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54273205_Jupiter_1-1.png"
+    "plot":"54273205_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986036301,
+    "ensemble_std":0.0005060438,
+    "modes_tested":1
   },
   {
     "case_id":"54568560_Jupiter_1-1",
@@ -1656,8 +2481,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54568560_Jupiter_1-1.png"
+    "plot":"54568560_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9959869623,
+    "ensemble_std":0.0013846736,
+    "modes_tested":1
   },
   {
     "case_id":"50794425_Jupiter_1-1",
@@ -1666,8 +2496,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50794425_Jupiter_1-1.png"
+    "plot":"50794425_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984962463,
+    "ensemble_std":0.0005462485,
+    "modes_tested":1
   },
   {
     "case_id":"54463104_Jupiter_1-1",
@@ -1676,8 +2511,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54463104_Jupiter_1-1.png"
+    "plot":"54463104_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9983034492,
+    "ensemble_std":0.0006174709,
+    "modes_tested":1
   },
   {
     "case_id":"20292600_Jupiter_1-1",
@@ -1686,8 +2526,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20292600_Jupiter_1-1.png"
+    "plot":"20292600_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9981531501,
+    "ensemble_std":0.0006669657,
+    "modes_tested":1
   },
   {
     "case_id":"20584395_Jupiter_1-1",
@@ -1696,8 +2541,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20584395_Jupiter_1-1.png"
+    "plot":"20584395_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9976412535,
+    "ensemble_std":0.000848114,
+    "modes_tested":1
   },
   {
     "case_id":"20356903_Jupiter_1-1",
@@ -1706,8 +2556,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20356903_Jupiter_1-1.png"
+    "plot":"20356903_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985143661,
+    "ensemble_std":0.0005384746,
+    "modes_tested":1
   },
   {
     "case_id":"20790105_Jupiter_1-1",
@@ -1716,8 +2571,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20790105_Jupiter_1-1.png"
+    "plot":"20790105_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9982932091,
+    "ensemble_std":0.0006204615,
+    "modes_tested":1
   },
   {
     "case_id":"54443053_Jupiter_1-1",
@@ -1726,8 +2586,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54443053_Jupiter_1-1.png"
+    "plot":"54443053_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.99622823,
+    "ensemble_std":0.0013073774,
+    "modes_tested":1
   },
   {
     "case_id":"20340992_Jupiter_1-1",
@@ -1736,8 +2601,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20340992_Jupiter_1-1.png"
+    "plot":"20340992_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.997256875,
+    "ensemble_std":0.0009770348,
+    "modes_tested":1
   },
   {
     "case_id":"54508249_Jupiter_1-1",
@@ -1746,8 +2616,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54508249_Jupiter_1-1.png"
+    "plot":"54508249_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9973127842,
+    "ensemble_std":0.0009436151,
+    "modes_tested":1
   },
   {
     "case_id":"54508249_Saturn_1-1",
@@ -1756,8 +2631,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Saturn",
-    "result":"-",
-    "plot":"54508249_Saturn_1-1.png"
+    "plot":"54508249_Saturn_1-1.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":3
   },
   {
     "case_id":"20634480_Jupiter_1-1",
@@ -1766,8 +2646,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20634480_Jupiter_1-1.png"
+    "plot":"20634480_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9977158785,
+    "ensemble_std":0.0008268303,
+    "modes_tested":1
   },
   {
     "case_id":"54560592_Jupiter_1-1",
@@ -1776,8 +2661,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54560592_Jupiter_1-1.png"
+    "plot":"54560592_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9979608297,
+    "ensemble_std":0.0007437889,
+    "modes_tested":1
   },
   {
     "case_id":"20792040_Jupiter_1-1",
@@ -1786,8 +2676,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20792040_Jupiter_1-1.png"
+    "plot":"20792040_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9987360477,
+    "ensemble_std":0.0004508315,
+    "modes_tested":1
   },
   {
     "case_id":"20315204_Jupiter_1-1",
@@ -1796,8 +2691,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20315204_Jupiter_1-1.png"
+    "plot":"20315204_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985283017,
+    "ensemble_std":0.0005313793,
+    "modes_tested":1
   },
   {
     "case_id":"20312023_Jupiter_1-1",
@@ -1806,8 +2706,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20312023_Jupiter_1-1.png"
+    "plot":"20312023_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986251354,
+    "ensemble_std":0.0004924743,
+    "modes_tested":1
   },
   {
     "case_id":"20377493_Jupiter_1-1",
@@ -1816,8 +2721,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20377493_Jupiter_1-1.png"
+    "plot":"20377493_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9968575835,
+    "ensemble_std":0.0011065823,
+    "modes_tested":1
   },
   {
     "case_id":"54508802_Jupiter_1-1",
@@ -1826,8 +2736,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54508802_Jupiter_1-1.png"
+    "plot":"54508802_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.998184979,
+    "ensemble_std":0.0006529057,
+    "modes_tested":1
   },
   {
     "case_id":"54427117_Jupiter_1-1",
@@ -1836,8 +2751,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54427117_Jupiter_1-1.png"
+    "plot":"54427117_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9982141137,
+    "ensemble_std":0.0006397277,
+    "modes_tested":1
   },
   {
     "case_id":"54463137_Jupiter_1-1",
@@ -1846,8 +2766,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54463137_Jupiter_1-1.png"
+    "plot":"54463137_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986120701,
+    "ensemble_std":0.000492423,
+    "modes_tested":1
   },
   {
     "case_id":"54463137_Jupiter_3-4",
@@ -1856,8 +2781,13 @@
     "class":"TJN",
     "resonance":"3:4",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54463137_Jupiter_3-4.png"
+    "plot":"54463137_Jupiter_3-4.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":4.75241876e-27,
+    "ensemble_std":3.139709736e-27,
+    "modes_tested":8
   },
   {
     "case_id":"54529621_Jupiter_1-1",
@@ -1866,8 +2796,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54529621_Jupiter_1-1.png"
+    "plot":"54529621_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9989891648,
+    "ensemble_std":0.0003386717,
+    "modes_tested":1
   },
   {
     "case_id":"54463075_Jupiter_1-1",
@@ -1876,8 +2811,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54463075_Jupiter_1-1.png"
+    "plot":"54463075_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9984474659,
+    "ensemble_std":0.0005545309,
+    "modes_tested":1
   },
   {
     "case_id":"54474108_Jupiter_1-1",
@@ -1886,8 +2826,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54474108_Jupiter_1-1.png"
+    "plot":"54474108_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9986415148,
+    "ensemble_std":0.0004782835,
+    "modes_tested":1
   },
   {
     "case_id":"54474108_Jupiter_3-4",
@@ -1896,8 +2841,13 @@
     "class":"TJN",
     "resonance":"3:4",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54474108_Jupiter_3-4.png"
+    "plot":"54474108_Jupiter_3-4.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":9.516456194e-26,
+    "ensemble_std":6.635870961e-26,
+    "modes_tested":8
   },
   {
     "case_id":"54508123_Jupiter_1-1",
@@ -1906,8 +2856,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54508123_Jupiter_1-1.png"
+    "plot":"54508123_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9985242128,
+    "ensemble_std":0.000521708,
+    "modes_tested":1
   },
   {
     "case_id":"54508123_Jupiter_3-4",
@@ -1916,8 +2871,13 @@
     "class":"TJN",
     "resonance":"3:4",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54508123_Jupiter_3-4.png"
+    "plot":"54508123_Jupiter_3-4.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":5.3853148e-26,
+    "ensemble_std":3.791206272e-26,
+    "modes_tested":8
   },
   {
     "case_id":"54508123_Jupiter_5-7",
@@ -1926,8 +2886,13 @@
     "class":"TJN",
     "resonance":"5:7",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54508123_Jupiter_5-7.png"
+    "plot":"54508123_Jupiter_5-7.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":13
   },
   {
     "case_id":"54508123_Jupiter_2-3",
@@ -1936,8 +2901,13 @@
     "class":"TJN",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54508123_Jupiter_2-3.png"
+    "plot":"54508123_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":6
   },
   {
     "case_id":"54508166_Jupiter_1-1",
@@ -1946,8 +2916,13 @@
     "class":"TJN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54508166_Jupiter_1-1.png"
+    "plot":"54508166_Jupiter_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9989922404,
+    "ensemble_std":0.0003598921,
+    "modes_tested":1
   },
   {
     "case_id":"54508166_Jupiter_3-4",
@@ -1956,8 +2931,13 @@
     "class":"TJN",
     "resonance":"3:4",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54508166_Jupiter_3-4.png"
+    "plot":"54508166_Jupiter_3-4.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":5.483461684e-28,
+    "ensemble_std":3.857037305e-28,
+    "modes_tested":8
   },
   {
     "case_id":"1003018_Jupiter_3-4",
@@ -1966,8 +2946,13 @@
     "class":"JFc",
     "resonance":"3:4",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1003018_Jupiter_3-4.png"
+    "plot":"1003018_Jupiter_3-4.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0006293533,
+    "ensemble_std":0.0001170443,
+    "modes_tested":8
   },
   {
     "case_id":"1003018_Jupiter_4-5",
@@ -1976,8 +2961,13 @@
     "class":"JFc",
     "resonance":"4:5",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1003018_Jupiter_4-5.png"
+    "plot":"1003018_Jupiter_4-5.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":1.0,
+    "libration_probability":0.9957670331,
+    "ensemble_std":0.001164347,
+    "modes_tested":1
   },
   {
     "case_id":"50562231_Jupiter_1-1",
@@ -1986,8 +2976,13 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50562231_Jupiter_1-1.png"
+    "plot":"50562231_Jupiter_1-1.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0007007246,
+    "ensemble_std":0.0001863294,
+    "modes_tested":3
   },
   {
     "case_id":"50562231_Jupiter_2-3",
@@ -1996,8 +2991,13 @@
     "class":"CEN",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50562231_Jupiter_2-3.png"
+    "plot":"50562231_Jupiter_2-3.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":1.0,
+    "libration_probability":0.9973365426,
+    "ensemble_std":0.001194743,
+    "modes_tested":1
   },
   {
     "case_id":"50562231_Saturn_1-1",
@@ -2006,8 +3006,13 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Saturn",
-    "result":"-",
-    "plot":"50562231_Saturn_1-1.png"
+    "plot":"50562231_Saturn_1-1.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":2.440474566e-20,
+    "ensemble_std":1.329904541e-20,
+    "modes_tested":3
   },
   {
     "case_id":"50562231_Jupiter_3-4",
@@ -2016,8 +3021,13 @@
     "class":"CEN",
     "resonance":"3:4",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50562231_Jupiter_3-4.png"
+    "plot":"50562231_Jupiter_3-4.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000165355,
+    "ensemble_std":0.0000057456,
+    "modes_tested":8
   },
   {
     "case_id":"50562231_Jupiter_4-5",
@@ -2026,8 +3036,13 @@
     "class":"CEN",
     "resonance":"4:5",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50562231_Jupiter_4-5.png"
+    "plot":"50562231_Jupiter_4-5.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.000000024,
+    "ensemble_std":0.0000000121,
+    "modes_tested":10
   },
   {
     "case_id":"1000203_Jupiter_2-3",
@@ -2036,8 +3051,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000203_Jupiter_2-3.png"
+    "plot":"1000203_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":6
   },
   {
     "case_id":"1000202_Jupiter_2-3",
@@ -2046,8 +3066,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000202_Jupiter_2-3.png"
+    "plot":"1000202_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000007523,
+    "ensemble_std":0.0000003207,
+    "modes_tested":6
   },
   {
     "case_id":"54021841_Jupiter_2-3",
@@ -2056,8 +3081,13 @@
     "class":"CEN",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54021841_Jupiter_2-3.png"
+    "plot":"54021841_Jupiter_2-3.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":1.0,
+    "libration_probability":0.9861542702,
+    "ensemble_std":0.0046202139,
+    "modes_tested":1
   },
   {
     "case_id":"1000201_Jupiter_2-3",
@@ -2066,8 +3096,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000201_Jupiter_2-3.png"
+    "plot":"1000201_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":6
   },
   {
     "case_id":"1000200_Jupiter_2-3",
@@ -2076,8 +3111,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000200_Jupiter_2-3.png"
+    "plot":"1000200_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":6
   },
   {
     "case_id":"1000199_Jupiter_2-3",
@@ -2086,8 +3126,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000199_Jupiter_2-3.png"
+    "plot":"1000199_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000001317,
+    "ensemble_std":0.0000000551,
+    "modes_tested":6
   },
   {
     "case_id":"1000198_Jupiter_2-3",
@@ -2096,8 +3141,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000198_Jupiter_2-3.png"
+    "plot":"1000198_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.1255418339,
+    "ensemble_std":0.0876444036,
+    "modes_tested":6
   },
   {
     "case_id":"1000196_Jupiter_2-3",
@@ -2106,8 +3156,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000196_Jupiter_2-3.png"
+    "plot":"1000196_Jupiter_2-3.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":-1.0,
+    "libration_probability":0.8859501958,
+    "ensemble_std":0.1860504004,
+    "modes_tested":5
   },
   {
     "case_id":"1000197_Jupiter_2-3",
@@ -2116,8 +3171,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000197_Jupiter_2-3.png"
+    "plot":"1000197_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000000002,
+    "ensemble_std":0.0000000001,
+    "modes_tested":6
   },
   {
     "case_id":"1000194_Jupiter_2-3",
@@ -2126,8 +3186,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000194_Jupiter_2-3.png"
+    "plot":"1000194_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":6
   },
   {
     "case_id":"1000195_Jupiter_2-3",
@@ -2136,8 +3201,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000195_Jupiter_2-3.png"
+    "plot":"1000195_Jupiter_2-3.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":1.0,
+    "libration_probability":0.9292808294,
+    "ensemble_std":0.014494588,
+    "modes_tested":1
   },
   {
     "case_id":"1000193_Jupiter_2-3",
@@ -2146,8 +3216,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000193_Jupiter_2-3.png"
+    "plot":"1000193_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000194986,
+    "ensemble_std":0.0000095635,
+    "modes_tested":6
   },
   {
     "case_id":"1000191_Jupiter_2-3",
@@ -2156,8 +3231,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000191_Jupiter_2-3.png"
+    "plot":"1000191_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000000066,
+    "ensemble_std":0.0000000029,
+    "modes_tested":6
   },
   {
     "case_id":"1000190_Jupiter_2-3",
@@ -2166,8 +3246,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000190_Jupiter_2-3.png"
+    "plot":"1000190_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":1.398301455e-29,
+    "ensemble_std":1.048031027e-29,
+    "modes_tested":6
   },
   {
     "case_id":"1000188_Jupiter_2-3",
@@ -2176,8 +3261,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000188_Jupiter_2-3.png"
+    "plot":"1000188_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000000007,
+    "ensemble_std":0.0000000003,
+    "modes_tested":6
   },
   {
     "case_id":"1000187_Jupiter_2-3",
@@ -2186,8 +3276,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000187_Jupiter_2-3.png"
+    "plot":"1000187_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":9.545009762e-18,
+    "ensemble_std":6.808322835e-18,
+    "modes_tested":6
   },
   {
     "case_id":"1000186_Jupiter_2-3",
@@ -2196,8 +3291,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000186_Jupiter_2-3.png"
+    "plot":"1000186_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000043326,
+    "ensemble_std":0.0000008297,
+    "modes_tested":6
   },
   {
     "case_id":"1000185_Jupiter_2-3",
@@ -2206,8 +3306,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000185_Jupiter_2-3.png"
+    "plot":"1000185_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0001791936,
+    "ensemble_std":0.0000544504,
+    "modes_tested":6
   },
   {
     "case_id":"1000184_Jupiter_2-3",
@@ -2216,8 +3321,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000184_Jupiter_2-3.png"
+    "plot":"1000184_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000539413,
+    "ensemble_std":0.0000100568,
+    "modes_tested":6
   },
   {
     "case_id":"1000183_Jupiter_2-3",
@@ -2226,8 +3336,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000183_Jupiter_2-3.png"
+    "plot":"1000183_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":4.000498373e-37,
+    "ensemble_std":6.645709757e-37,
+    "modes_tested":6
   },
   {
     "case_id":"1000182_Jupiter_2-3",
@@ -2236,8 +3351,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000182_Jupiter_2-3.png"
+    "plot":"1000182_Jupiter_2-3.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":1.0,
+    "libration_probability":0.9984271169,
+    "ensemble_std":0.0020099188,
+    "modes_tested":1
   },
   {
     "case_id":"1000181_Jupiter_2-3",
@@ -2246,8 +3366,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000181_Jupiter_2-3.png"
+    "plot":"1000181_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":3.720407728e-26,
+    "ensemble_std":2.843847267e-26,
+    "modes_tested":6
   },
   {
     "case_id":"54259120_Jupiter_2-3",
@@ -2256,8 +3381,13 @@
     "class":"CEN",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54259120_Jupiter_2-3.png"
+    "plot":"54259120_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":6
   },
   {
     "case_id":"1003061_Jupiter_2-3",
@@ -2266,8 +3396,13 @@
     "class":"JFc",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1003061_Jupiter_2-3.png"
+    "plot":"1003061_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000001298,
+    "ensemble_std":0.0000000641,
+    "modes_tested":6
   },
   {
     "case_id":"1003088_Jupiter_3-5",
@@ -2276,8 +3411,13 @@
     "class":"JFc",
     "resonance":"3:5",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1003088_Jupiter_3-5.png"
+    "plot":"1003088_Jupiter_3-5.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0290288441,
+    "ensemble_std":0.0051395966,
+    "modes_tested":9
   },
   {
     "case_id":"54500793_Jupiter_2-3",
@@ -2286,8 +3426,13 @@
     "class":"CEN",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54500793_Jupiter_2-3.png"
+    "plot":"54500793_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.000003495,
+    "ensemble_std":0.0000015177,
+    "modes_tested":6
   },
   {
     "case_id":"54500793_Jupiter_3-5",
@@ -2296,8 +3441,13 @@
     "class":"CEN",
     "resonance":"3:5",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54500793_Jupiter_3-5.png"
+    "plot":"54500793_Jupiter_3-5.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":2.0,
+    "libration_probability":0.9967484474,
+    "ensemble_std":0.0011901955,
+    "modes_tested":1
   },
   {
     "case_id":"54447016_Jupiter_3-5",
@@ -2306,8 +3456,13 @@
     "class":"CEN",
     "resonance":"3:5",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54447016_Jupiter_3-5.png"
+    "plot":"54447016_Jupiter_3-5.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":2.0,
+    "libration_probability":0.8042062402,
+    "ensemble_std":0.0222098045,
+    "modes_tested":1
   },
   {
     "case_id":"1003527_Jupiter_1-2",
@@ -2316,8 +3471,13 @@
     "class":"JFc",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1003527_Jupiter_1-2.png"
+    "plot":"1003527_Jupiter_1-2.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0012204998,
+    "ensemble_std":0.0002665637,
+    "modes_tested":4
   },
   {
     "case_id":"1000473_Jupiter_1-2",
@@ -2326,8 +3486,13 @@
     "class":"JFc",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1000473_Jupiter_1-2.png"
+    "plot":"1000473_Jupiter_1-2.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000000026,
+    "ensemble_std":0.0000000012,
+    "modes_tested":4
   },
   {
     "case_id":"1001666_Jupiter_1-2",
@@ -2336,8 +3501,13 @@
     "class":"CTc",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1001666_Jupiter_1-2.png"
+    "plot":"1001666_Jupiter_1-2.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0103216376,
+    "ensemble_std":0.0014901402,
+    "modes_tested":4
   },
   {
     "case_id":"20793189_Jupiter_1-2",
@@ -2346,8 +3516,13 @@
     "class":"CEN",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20793189_Jupiter_1-2.png"
+    "plot":"20793189_Jupiter_1-2.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.1127783656,
+    "ensemble_std":0.0137022521,
+    "modes_tested":4
   },
   {
     "case_id":"20606985_Jupiter_1-2",
@@ -2356,8 +3531,13 @@
     "class":"CEN",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20606985_Jupiter_1-2.png"
+    "plot":"20606985_Jupiter_1-2.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":1.0,
+    "libration_probability":0.6295644403,
+    "ensemble_std":0.0350099743,
+    "modes_tested":1
   },
   {
     "case_id":"54515074_Jupiter_1-2",
@@ -2366,8 +3546,13 @@
     "class":"CEN",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54515074_Jupiter_1-2.png"
+    "plot":"54515074_Jupiter_1-2.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":1.0,
+    "libration_probability":0.9918744087,
+    "ensemble_std":0.0024766864,
+    "modes_tested":1
   },
   {
     "case_id":"20052872_Jupiter_1-2",
@@ -2376,8 +3561,13 @@
     "class":"CEN",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20052872_Jupiter_1-2.png"
+    "plot":"20052872_Jupiter_1-2.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":1.0,
+    "libration_probability":0.9991688371,
+    "ensemble_std":0.0003070387,
+    "modes_tested":1
   },
   {
     "case_id":"20315898_Jupiter_1-2",
@@ -2386,8 +3576,13 @@
     "class":"CEN",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20315898_Jupiter_1-2.png"
+    "plot":"20315898_Jupiter_1-2.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":1.0,
+    "libration_probability":0.9988112211,
+    "ensemble_std":0.0004310118,
+    "modes_tested":1
   },
   {
     "case_id":"1003745_Jupiter_1-2",
@@ -2396,8 +3591,13 @@
     "class":"JFc",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1003745_Jupiter_1-2.png"
+    "plot":"1003745_Jupiter_1-2.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":1.0,
+    "libration_probability":0.9926858068,
+    "ensemble_std":0.0023117114,
+    "modes_tested":1
   },
   {
     "case_id":"54593940_Jupiter_1-2",
@@ -2406,8 +3606,13 @@
     "class":"CEN",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54593940_Jupiter_1-2.png"
+    "plot":"54593940_Jupiter_1-2.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":1.0,
+    "libration_probability":0.878098917,
+    "ensemble_std":0.0138067931,
+    "modes_tested":1
   },
   {
     "case_id":"54205442_Jupiter_1-2",
@@ -2416,8 +3621,13 @@
     "class":"CEN",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54205442_Jupiter_1-2.png"
+    "plot":"54205442_Jupiter_1-2.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":1.0,
+    "libration_probability":0.9967402101,
+    "ensemble_std":0.0011387752,
+    "modes_tested":1
   },
   {
     "case_id":"20494158_Jupiter_1-2",
@@ -2426,8 +3636,13 @@
     "class":"CEN",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20494158_Jupiter_1-2.png"
+    "plot":"20494158_Jupiter_1-2.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":1.0,
+    "libration_probability":0.8526307464,
+    "ensemble_std":0.0219449672,
+    "modes_tested":1
   },
   {
     "case_id":"54472940_Jupiter_2-5",
@@ -2436,8 +3651,13 @@
     "class":"CEN",
     "resonance":"2:5",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54472940_Jupiter_2-5.png"
+    "plot":"54472940_Jupiter_2-5.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":-5.0,
+    "libration_probability":0.568105334,
+    "ensemble_std":0.1301545471,
+    "modes_tested":4
   },
   {
     "case_id":"54188083_Saturn_1-1",
@@ -2446,8 +3666,13 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Saturn",
-    "result":"-",
-    "plot":"54188083_Saturn_1-1.png"
+    "plot":"54188083_Saturn_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9978327155,
+    "ensemble_std":0.0008116468,
+    "modes_tested":1
   },
   {
     "case_id":"50755434_Saturn_1-1",
@@ -2456,8 +3681,13 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Saturn",
-    "result":"-",
-    "plot":"50755434_Saturn_1-1.png"
+    "plot":"50755434_Saturn_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9655807853,
+    "ensemble_std":0.0078946565,
+    "modes_tested":1
   },
   {
     "case_id":"1003141_Jupiter_2-5",
@@ -2466,8 +3696,13 @@
     "class":"CTc",
     "resonance":"2:5",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1003141_Jupiter_2-5.png"
+    "plot":"1003141_Jupiter_2-5.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":3.0,
+    "libration_probability":0.9852888227,
+    "ensemble_std":0.0023708345,
+    "modes_tested":1
   },
   {
     "case_id":"50892324_Saturn_1-1",
@@ -2476,8 +3711,13 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Saturn",
-    "result":"-",
-    "plot":"50892324_Saturn_1-1.png"
+    "plot":"50892324_Saturn_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9912345052,
+    "ensemble_std":0.0019764008,
+    "modes_tested":1
   },
   {
     "case_id":"50989417_Jupiter_1-3",
@@ -2486,8 +3726,13 @@
     "class":"CEN",
     "resonance":"1:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50989417_Jupiter_1-3.png"
+    "plot":"50989417_Jupiter_1-3.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":2.0,
+    "libration_probability":0.9993579984,
+    "ensemble_std":0.0002222029,
+    "modes_tested":1
   },
   {
     "case_id":"20060558_Jupiter_1-3",
@@ -2496,8 +3741,13 @@
     "class":"CEN",
     "resonance":"1:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"20060558_Jupiter_1-3.png"
+    "plot":"20060558_Jupiter_1-3.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":2.0,
+    "libration_probability":0.984630084,
+    "ensemble_std":0.0017687124,
+    "modes_tested":1
   },
   {
     "case_id":"50893230_Jupiter_1-3",
@@ -2506,8 +3756,13 @@
     "class":"CEN",
     "resonance":"1:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50893230_Jupiter_1-3.png"
+    "plot":"50893230_Jupiter_1-3.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":2.0,
+    "libration_probability":0.9965735674,
+    "ensemble_std":0.0013111052,
+    "modes_tested":1
   },
   {
     "case_id":"1003713_Jupiter_1-3",
@@ -2516,8 +3771,13 @@
     "class":"JFc",
     "resonance":"1:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"1003713_Jupiter_1-3.png"
+    "plot":"1003713_Jupiter_1-3.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":2.0,
+    "libration_probability":0.9921069264,
+    "ensemble_std":0.0045460331,
+    "modes_tested":1
   },
   {
     "case_id":"50827127_Jupiter_1-3",
@@ -2526,8 +3786,13 @@
     "class":"CEN",
     "resonance":"1:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50827127_Jupiter_1-3.png"
+    "plot":"50827127_Jupiter_1-3.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":2.0,
+    "libration_probability":0.9966172457,
+    "ensemble_std":0.0011877868,
+    "modes_tested":1
   },
   {
     "case_id":"50410943_Jupiter_1-3",
@@ -2536,8 +3801,13 @@
     "class":"CEN",
     "resonance":"1:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50410943_Jupiter_1-3.png"
+    "plot":"50410943_Jupiter_1-3.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":2.0,
+    "libration_probability":0.9973544955,
+    "ensemble_std":0.0009189937,
+    "modes_tested":1
   },
   {
     "case_id":"54551155_Jupiter_1-3",
@@ -2546,8 +3816,13 @@
     "class":"CEN",
     "resonance":"1:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54551155_Jupiter_1-3.png"
+    "plot":"54551155_Jupiter_1-3.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":2.0,
+    "libration_probability":0.7981405735,
+    "ensemble_std":0.0286537152,
+    "modes_tested":1
   },
   {
     "case_id":"54544488_Jupiter_1-3",
@@ -2556,8 +3831,13 @@
     "class":"CEN",
     "resonance":"1:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54544488_Jupiter_1-3.png"
+    "plot":"54544488_Jupiter_1-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0347975705,
+    "ensemble_std":0.0045612874,
+    "modes_tested":5
   },
   {
     "case_id":"54518087_Jupiter_1-3",
@@ -2566,8 +3846,13 @@
     "class":"CEN",
     "resonance":"1:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54518087_Jupiter_1-3.png"
+    "plot":"54518087_Jupiter_1-3.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":2.0,
+    "libration_probability":0.9464262962,
+    "ensemble_std":0.0153952738,
+    "modes_tested":1
   },
   {
     "case_id":"50836207_Jupiter_1-1",
@@ -2576,8 +3861,13 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50836207_Jupiter_1-1.png"
+    "plot":"50836207_Jupiter_1-1.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000001437,
+    "ensemble_std":0.0000000729,
+    "modes_tested":3
   },
   {
     "case_id":"50836207_Jupiter_1-2",
@@ -2586,8 +3876,13 @@
     "class":"CEN",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50836207_Jupiter_1-2.png"
+    "plot":"50836207_Jupiter_1-2.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000002001,
+    "ensemble_std":0.0000001002,
+    "modes_tested":4
   },
   {
     "case_id":"50836207_Jupiter_2-3",
@@ -2596,8 +3891,13 @@
     "class":"CEN",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50836207_Jupiter_2-3.png"
+    "plot":"50836207_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":1.638476134e-26,
+    "ensemble_std":1.690333465e-26,
+    "modes_tested":6
   },
   {
     "case_id":"50836207_Jupiter_3-4",
@@ -2606,8 +3906,13 @@
     "class":"CEN",
     "resonance":"3:4",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50836207_Jupiter_3-4.png"
+    "plot":"50836207_Jupiter_3-4.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":2.189627455e-22,
+    "ensemble_std":2.108574267e-22,
+    "modes_tested":8
   },
   {
     "case_id":"50836207_Jupiter_2-5",
@@ -2616,8 +3921,13 @@
     "class":"CEN",
     "resonance":"2:5",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50836207_Jupiter_2-5.png"
+    "plot":"50836207_Jupiter_2-5.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":8
   },
   {
     "case_id":"54516867_Jupiter_1-1",
@@ -2626,8 +3936,13 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54516867_Jupiter_1-1.png"
+    "plot":"54516867_Jupiter_1-1.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000000243,
+    "ensemble_std":0.0000000133,
+    "modes_tested":3
   },
   {
     "case_id":"54516867_Jupiter_2-3",
@@ -2636,8 +3951,13 @@
     "class":"CEN",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54516867_Jupiter_2-3.png"
+    "plot":"54516867_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":3.237351683e-31,
+    "ensemble_std":3.528141015e-31,
+    "modes_tested":6
   },
   {
     "case_id":"54516867_Saturn_1-1",
@@ -2646,8 +3966,13 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Saturn",
-    "result":"-",
-    "plot":"54516867_Saturn_1-1.png"
+    "plot":"54516867_Saturn_1-1.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000019475,
+    "ensemble_std":0.0000008647,
+    "modes_tested":3
   },
   {
     "case_id":"54516867_Jupiter_3-4",
@@ -2656,8 +3981,13 @@
     "class":"CEN",
     "resonance":"3:4",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54516867_Jupiter_3-4.png"
+    "plot":"54516867_Jupiter_3-4.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":1.958497122e-33,
+    "ensemble_std":2.187931024e-33,
+    "modes_tested":8
   },
   {
     "case_id":"54516867_Jupiter_4-5",
@@ -2666,8 +3996,13 @@
     "class":"CEN",
     "resonance":"4:5",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54516867_Jupiter_4-5.png"
+    "plot":"54516867_Jupiter_4-5.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":9.705487748e-35,
+    "ensemble_std":1.097992266e-34,
+    "modes_tested":10
   },
   {
     "case_id":"54340709_Jupiter_1-1",
@@ -2676,8 +4011,13 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54340709_Jupiter_1-1.png"
+    "plot":"54340709_Jupiter_1-1.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000000009,
+    "ensemble_std":0.0000000005,
+    "modes_tested":3
   },
   {
     "case_id":"54340709_Saturn_1-1",
@@ -2686,8 +4026,13 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Saturn",
-    "result":"-",
-    "plot":"54340709_Saturn_1-1.png"
+    "plot":"54340709_Saturn_1-1.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":3
   },
   {
     "case_id":"54340709_Jupiter_3-4",
@@ -2696,8 +4041,13 @@
     "class":"CEN",
     "resonance":"3:4",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54340709_Jupiter_3-4.png"
+    "plot":"54340709_Jupiter_3-4.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":4.510762661e-39,
+    "ensemble_std":5.888782981e-39,
+    "modes_tested":8
   },
   {
     "case_id":"54340709_Jupiter_5-7",
@@ -2706,8 +4056,13 @@
     "class":"CEN",
     "resonance":"5:7",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54340709_Jupiter_5-7.png"
+    "plot":"54340709_Jupiter_5-7.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":13
   },
   {
     "case_id":"54340709_Jupiter_2-3",
@@ -2716,8 +4071,13 @@
     "class":"CEN",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54340709_Jupiter_2-3.png"
+    "plot":"54340709_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":6
   },
   {
     "case_id":"50144160_Jupiter_1-2",
@@ -2726,8 +4086,13 @@
     "class":"CEN",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50144160_Jupiter_1-2.png"
+    "plot":"50144160_Jupiter_1-2.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":6.152701222e-16,
+    "ensemble_std":5.095581069e-16,
+    "modes_tested":4
   },
   {
     "case_id":"50144160_Saturn_1-1",
@@ -2736,8 +4101,13 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Saturn",
-    "result":"-",
-    "plot":"50144160_Saturn_1-1.png"
+    "plot":"50144160_Saturn_1-1.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":3
   },
   {
     "case_id":"54606679_Jupiter_1-2",
@@ -2746,8 +4116,13 @@
     "class":"CEN",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54606679_Jupiter_1-2.png"
+    "plot":"54606679_Jupiter_1-2.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0000000001,
+    "ensemble_std":0.0,
+    "modes_tested":4
   },
   {
     "case_id":"54606679_Saturn_1-1",
@@ -2756,8 +4131,13 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Saturn",
-    "result":"-",
-    "plot":"54606679_Saturn_1-1.png"
+    "plot":"54606679_Saturn_1-1.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":3.708950975e-19,
+    "ensemble_std":3.361323611e-19,
+    "modes_tested":3
   },
   {
     "case_id":"54606679_Jupiter_1-3",
@@ -2766,8 +4146,13 @@
     "class":"CEN",
     "resonance":"1:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54606679_Jupiter_1-3.png"
+    "plot":"54606679_Jupiter_1-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":5
   },
   {
     "case_id":"50137717_Jupiter_1-1",
@@ -2776,8 +4161,13 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50137717_Jupiter_1-1.png"
+    "plot":"50137717_Jupiter_1-1.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.000000001,
+    "ensemble_std":0.0000000006,
+    "modes_tested":3
   },
   {
     "case_id":"50137717_Jupiter_2-3",
@@ -2786,8 +4176,13 @@
     "class":"CEN",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50137717_Jupiter_2-3.png"
+    "plot":"50137717_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":6
   },
   {
     "case_id":"50137717_Saturn_1-1",
@@ -2796,8 +4191,13 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Saturn",
-    "result":"-",
-    "plot":"50137717_Saturn_1-1.png"
+    "plot":"50137717_Saturn_1-1.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":3
   },
   {
     "case_id":"50137717_Jupiter_3-4",
@@ -2806,8 +4206,13 @@
     "class":"CEN",
     "resonance":"3:4",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50137717_Jupiter_3-4.png"
+    "plot":"50137717_Jupiter_3-4.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":8
   },
   {
     "case_id":"50137717_Jupiter_1-2",
@@ -2816,8 +4221,13 @@
     "class":"CEN",
     "resonance":"1:2",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"50137717_Jupiter_1-2.png"
+    "plot":"50137717_Jupiter_1-2.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":2.235298716e-23,
+    "ensemble_std":2.187092085e-23,
+    "modes_tested":4
   },
   {
     "case_id":"54479470_Jupiter_2-3",
@@ -2826,8 +4236,13 @@
     "class":"CEN",
     "resonance":"2:3",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54479470_Jupiter_2-3.png"
+    "plot":"54479470_Jupiter_2-3.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":6
   },
   {
     "case_id":"54479470_Saturn_1-1",
@@ -2836,8 +4251,13 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Saturn",
-    "result":"-",
-    "plot":"54479470_Saturn_1-1.png"
+    "plot":"54479470_Saturn_1-1.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":4.03594708e-16,
+    "ensemble_std":3.361206805e-16,
+    "modes_tested":3
   },
   {
     "case_id":"54479470_Jupiter_3-5",
@@ -2846,8 +4266,13 @@
     "class":"CEN",
     "resonance":"3:5",
     "planet":"Jupiter",
-    "result":"-",
-    "plot":"54479470_Jupiter_3-5.png"
+    "plot":"54479470_Jupiter_3-5.png",
+    "result":"Circulation",
+    "prediction":0,
+    "resonant_mode":null,
+    "libration_probability":0.0,
+    "ensemble_std":0.0,
+    "modes_tested":9
   },
   {
     "case_id":"54581555_Neptune_1-1",
@@ -2856,7 +4281,12 @@
     "class":"CEN",
     "resonance":"1:1",
     "planet":"Neptune",
-    "result":"-",
-    "plot":"54581555_Neptune_1-1.png"
+    "plot":"54581555_Neptune_1-1.png",
+    "result":"Libration",
+    "prediction":1,
+    "resonant_mode":0.0,
+    "libration_probability":0.9975979447,
+    "ensemble_std":0.0008778253,
+    "modes_tested":1
   }
 ]
