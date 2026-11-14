@@ -176,7 +176,7 @@ The static interface in [`docs/`](docs/) exposes the application results without
 - filters by dynamical class, planet, resonance and predicted result;
 - inspection of the original integrated resonant-angle plots.
 
-**[Open the live explorer](https://santiagogr11.github.io/orbital-resonance-ml/)**
+**[Open the live explorer](https://santiagogr11.github.io/resonance-classification-ml/)**
 
 `scripts/07_build_results_site.py` converts the result table to JSON and refreshes the plots used by the site. GitHub Pages serves the same `docs/` directory.
 
@@ -185,8 +185,8 @@ The static interface in [`docs/`](docs/) exposes the application results without
 ### Installation
 
 ```bash
-git clone https://github.com/SantiagoGR11/orbital-resonance-ml.git
-cd orbital-resonance-ml
+git clone https://github.com/SantiagoGR11/resonance-classification-ml.git
+cd resonance-classification-ml
 python -m venv .venv
 ```
 
