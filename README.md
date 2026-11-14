@@ -81,7 +81,7 @@ The original candidate catalog is excluded from the training sample by SPK ID. C
 | JFC libration: P/2020 R5 | JFC circulation: 396P/Leonard |
 |---|---|
 | ![Librating angle for P/2020 R5](outputs/ml/integration_plots/1003721_Jupiter_1-1.png) | ![Librating angle for 396P/Leonard](outputs/ml/integration_plots/1003664_Jupiter_2-3.png) |
-| Jupiter 2:3, label **0** | Jupiter 1:1, label **1** |
+| Jupiter 1:1, label **1** | Jupiter 2:3, label **0** |
 
 `JFc` is a population label, not a resonance label: the group intentionally contains both classes. 
 
