@@ -117,10 +117,6 @@ Both models use binary cross-entropy with logits, Adam, a learning rate of `1e-3
 | ![L](outputs/ml/evaluation/metrics/conv_loss.png) | ![L](outputs/ml/evaluation/metrics/conv_loss.png) |
 
 
-| Some relevant cuantities of both models |
-|---|
-![Comparison of the evaluated architectures](outputs/ml/evaluation/metrics/model_comparison.png)
-
 The combined model is useful as an ablation experiment: it tests whether explicit physical descriptors add information beyond the signal itself. It reaches the same classification accuracy but requires roughly **23 times more parameters**. The compact CNN was therefore selected for final application.
 
 <p align="center">
