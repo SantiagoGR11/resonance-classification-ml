@@ -7,7 +7,7 @@
 ![Task](https://img.shields.io/badge/task-time--series%20classification-4C78A8)
 ![Domain](https://img.shields.io/badge/domain-orbital%20dynamics-6F4E7C)
 
-[Explore the predictions](https://santiagogr11.github.io/orbital-resonance-ml/) · [View the evaluation outputs](outputs/ml/evaluation/metrics/)
+[Explore the predictions](https://santiagogr11.github.io/resonance-classification-ml/) · [View the evaluation outputs](outputs/ml/evaluation/metrics/)
 
 ## Why this project exists
 
