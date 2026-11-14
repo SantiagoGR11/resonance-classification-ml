@@ -7,7 +7,7 @@
 ![Task](https://img.shields.io/badge/task-time--series%20classification-4C78A8)
 ![Domain](https://img.shields.io/badge/domain-orbital%20dynamics-6F4E7C)
 
-[Explore the predictions](https://santiagogr11.github.io/orbital-resonance-ml/) · [View the evaluation outputs](outputs/ml/evaluation/metrics/) · [See the wider TFG project](https://github.com/SantiagoGR11/centaur-jwst)
+[Explore the predictions](https://santiagogr11.github.io/orbital-resonance-ml/) · [View the evaluation outputs](outputs/ml/evaluation/metrics/)
 
 ## Why this project exists
 
@@ -78,12 +78,12 @@ The original candidate catalog is excluded from the training sample by SPK ID. C
 | ![Librating resonant angle for 2015 VO202](outputs/ml/integration_plots/54144102_Neptune_2-3.png) | ![Circulating resonant angle for 2001 KT76](outputs/ml/integration_plots/20455209_Neptune_4-7.png) |
 | Neptune 2:3, label **1** | Neptune 4:7 candidate, label **0** |
 
-| JFC circulation: 395P/Catalina-NEAT | JFC libration: 295P/LINEAR |
+| JFC libration: P/2020 R5 | JFC circulation: 396P/Leonard |
 |---|---|
-| ![Circulating angle for 395P Catalina-NEAT](outputs/ml/integration_plots/1001650_Jupiter_2-3.png) | ![Librating angle for 295P LINEAR](outputs/ml/integration_plots/1000385_Jupiter_1-1.png) |
+| ![Librating angle for P/2020 R5](outputs/ml/integration_plots/1003721_Jupiter_1-1.png) | ![Librating angle for 396P/Leonard](outputs/ml/integration_plots/1003664_Jupiter_2-3.png) |
 | Jupiter 2:3, label **0** | Jupiter 1:1, label **1** |
 
-`JFc` is a population label, not a resonance label: the group intentionally contains both classes.
+`JFc` is a population label, not a resonance label: the group intentionally contains both classes. 
 
 ## Preprocessing the time series
 
@@ -112,6 +112,13 @@ Two architectures were evaluated under the same object-level split:
 
 Both models use binary cross-entropy with logits, Adam, a learning rate of `1e-3`, weight decay of `1e-4`, batch size `32` and dropout `0.2`.
 
+| CNN's Loss Function | Combined's Loss Function |
+|---|---|
+| ![L](outputs/ml/evaluation/metrics/conv_loss.png) | ![L](outputs/ml/evaluation/metrics/conv_loss.png) |
+
+
+| Some relevant cuantities of both models |
+|---|
 ![Comparison of the evaluated architectures](outputs/ml/evaluation/metrics/model_comparison.png)
 
 The combined model is useful as an ablation experiment: it tests whether explicit physical descriptors add information beyond the signal itself. It reaches the same classification accuracy but requires roughly **23 times more parameters**. The compact CNN was therefore selected for final application.
@@ -155,6 +162,9 @@ For the application catalog, only the first **two estimated libration periods** 
 For example, the model identifies the bounded 1:1 resonant angle of Jupiter Trojan **3801 Thrasymedes** with a score of 0.9986:
 
 ![Integrated resonant angle for 3801 Thrasymedes](outputs/resonance_plots/20003801_Jupiter_1-1.png)
+
+Another example: through this model, an object is classified as resonant if it is currently in this regime, as the entire project focuses on the upcoming year. This is the case for the Chiron-type comet **C/2011 P2**:
+![Integrated resonant angle for C/2011 P2](outputs/resonance_plots/1003141_Jupiter_2-5.png)
 
 Application scores are screening outputs, not an additional accuracy measurement.
 
@@ -280,4 +290,4 @@ orbital-resonance-ml/
 **Santiago García Rodríguez** — BSc Physics, University of Oviedo
 [GitHub](https://github.com/SantiagoGR11) · [LinkedIn](https://www.linkedin.com/in/santiagogarciarod/)
 
-Developed as part of the `centaur-jwst` undergraduate thesis project under the supervision of **Noemí Pinilla-Alonso (ICTEA)**.
+Developed as part of the undergraduate thesis project, *Physical modeling of the thermal emission of Centaurs: implications for JWST/MIRI observations*, under the supervision of **Noemí Pinilla-Alonso (ICTEA)**.
